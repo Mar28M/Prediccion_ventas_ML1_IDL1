@@ -1,0 +1,3001 @@
+grupo_edad,region,nivel_ingresos,horas_conectado,clics_en_productos,uso_cupones
+46-60,Lima,medio,1.68,5,4
+60+,Lima,alto,2.41,2,1
+60+,Lima,alto,1.85,5,1
+36-45,Lima,medio,3.19,7,2
+18-25,Tumbes,medio,1.4,8,3
+26-35,Lima,medio,2.69,6,3
+46-60,Cajamarca,medio,4.12,6,1
+46-60,Lima,bajo,2.13,9,1
+46-60,Callao,medio,1.44,9,4
+18-25,Huancavelica,medio,1.75,7,1
+26-35,Callao,medio,2.0,7,2
+26-35,Lima,alto,1.8,6,3
+18-25,Loreto,medio,2.29,12,4
+60+,La Libertad,medio,3.08,5,4
+60+,Lima,alto,2.43,5,2
+36-45,Cajamarca,alto,2.05,5,3
+18-25,Lima,bajo,3.2,6,1
+60+,Piura,alto,1.73,6,3
+46-60,Cajamarca,medio,2.24,7,1
+26-35,Pasco,medio,0.7,10,2
+18-25,Loreto,bajo,2.36,7,2
+36-45,Lima,alto,1.76,7,4
+26-35,Lima,medio,3.28,9,0
+46-60,Huánuco,alto,2.32,8,2
+46-60,Amazonas,medio,2.0,5,4
+60+,Junín,medio,2.26,4,0
+26-35,Lima,medio,3.42,2,4
+36-45,Huancavelica,medio,2.91,6,2
+18-25,Huánuco,alto,1.29,6,4
+60+,Ica,bajo,1.61,4,4
+26-35,Áncash,bajo,2.84,2,3
+46-60,Lambayeque,bajo,1.28,6,1
+26-35,La Libertad,alto,1.69,7,1
+46-60,Lima,bajo,1.99,1,3
+60+,San Martín,bajo,1.96,7,2
+60+,Loreto,bajo,1.64,4,4
+26-35,Ayacucho,bajo,3.17,3,2
+46-60,Ayacucho,bajo,4.29,11,4
+46-60,Loreto,alto,2.15,9,1
+18-25,Lima,medio,1.29,7,4
+18-25,San Martín,medio,3.51,3,4
+60+,Piura,medio,1.83,5,3
+36-45,Lima,medio,2.38,4,2
+36-45,Cajamarca,alto,1.13,4,0
+60+,Piura,medio,3.69,5,0
+36-45,La Libertad,medio,2.14,5,4
+46-60,Moquegua,medio,3.5,2,1
+36-45,San Martín,medio,3.77,4,3
+26-35,Tacna,bajo,2.66,4,4
+36-45,Amazonas,bajo,2.86,2,3
+18-25,Puno,bajo,1.63,3,1
+36-45,Huancavelica,medio,1.75,3,0
+18-25,Lambayeque,bajo,3.97,1,2
+26-35,San Martín,bajo,2.45,4,2
+26-35,Cusco,medio,4.04,8,0
+60+,Loreto,bajo,3.62,2,3
+36-45,Moquegua,medio,3.54,0,4
+46-60,Apurímac,medio,2.5,3,4
+18-25,Callao,alto,3.24,5,4
+26-35,Amazonas,bajo,4.31,4,0
+60+,Cajamarca,alto,0.99,2,1
+46-60,Ica,medio,1.78,6,3
+60+,Madre de Dios,medio,2.46,2,1
+60+,San Martín,bajo,3.5,1,2
+46-60,Puno,medio,3.26,4,0
+26-35,Lima,bajo,1.16,6,1
+36-45,Lambayeque,alto,3.16,11,1
+60+,Lima,medio,3.24,5,4
+60+,Puno,bajo,2.11,6,0
+18-25,Tacna,bajo,3.53,3,4
+46-60,Ucayali,bajo,2.56,7,0
+60+,Moquegua,medio,3.74,3,0
+60+,Huánuco,medio,2.2,5,4
+18-25,Cusco,medio,3.04,5,2
+18-25,Lima,alto,0.47,4,0
+36-45,Cusco,medio,3.12,3,3
+60+,Piura,medio,1.82,5,3
+60+,Tacna,bajo,0.0,5,1
+60+,San Martín,alto,2.8,5,3
+26-35,Pasco,medio,0.75,9,3
+46-60,Madre de Dios,medio,3.21,6,1
+36-45,Junín,medio,3.91,5,2
+46-60,Ica,bajo,0.8,4,4
+46-60,Lima,bajo,2.35,5,2
+26-35,Lima,alto,2.44,4,4
+46-60,Áncash,bajo,3.81,5,3
+18-25,Loreto,medio,1.17,11,3
+18-25,Cajamarca,bajo,3.0,8,1
+26-35,Huánuco,bajo,2.93,3,3
+26-35,Lima,alto,0.69,6,0
+18-25,La Libertad,bajo,4.13,7,3
+60+,Ayacucho,medio,2.5,5,1
+36-45,Junín,medio,2.45,3,1
+36-45,Callao,bajo,2.32,4,0
+26-35,Apurímac,bajo,1.92,7,0
+46-60,Piura,medio,3.75,7,4
+46-60,Lima,alto,3.1,4,1
+46-60,Loreto,medio,2.7,8,3
+60+,Lima,bajo,2.94,5,2
+26-35,Lima,bajo,2.86,9,3
+60+,Lima,alto,1.81,7,0
+18-25,Lima,medio,3.06,4,0
+36-45,La Libertad,alto,1.9,2,1
+26-35,Lima,medio,0.66,5,4
+36-45,Tacna,alto,1.99,0,4
+36-45,Ayacucho,bajo,1.38,6,1
+36-45,Tumbes,bajo,0.33,12,1
+36-45,Madre de Dios,medio,0.85,7,3
+46-60,Lima,medio,1.47,6,4
+60+,Piura,bajo,0.97,5,4
+46-60,Callao,medio,3.24,6,4
+46-60,Lima,alto,2.31,8,0
+60+,Moquegua,bajo,2.38,3,1
+26-35,Lima,medio,3.83,6,2
+26-35,Tumbes,bajo,2.83,5,2
+46-60,Apurímac,medio,2.89,5,4
+46-60,Lima,bajo,2.01,6,4
+60+,Piura,medio,2.58,5,2
+60+,Lima,bajo,3.82,8,1
+36-45,Áncash,bajo,2.67,5,1
+46-60,Ica,medio,2.11,4,1
+18-25,La Libertad,medio,2.72,4,4
+36-45,Lima,bajo,2.18,4,0
+46-60,Ica,medio,4.07,6,4
+26-35,Lambayeque,medio,3.11,6,3
+26-35,Lima,bajo,1.22,6,2
+26-35,Apurímac,bajo,2.8,7,4
+26-35,Tacna,medio,3.49,3,0
+46-60,Moquegua,alto,1.5,3,2
+36-45,Apurímac,medio,3.18,5,3
+18-25,San Martín,alto,1.77,7,2
+26-35,Cusco,bajo,2.09,7,1
+18-25,Lambayeque,alto,2.28,6,1
+60+,Cajamarca,bajo,2.55,7,4
+18-25,Lima,medio,0.64,10,0
+18-25,Moquegua,bajo,2.0,6,3
+60+,Lima,alto,2.19,6,0
+26-35,Arequipa,medio,2.87,5,4
+46-60,Lima,medio,1.86,5,2
+46-60,Callao,medio,3.15,4,1
+18-25,Ica,alto,2.34,4,2
+46-60,Tacna,bajo,1.73,5,0
+36-45,Amazonas,bajo,2.27,4,3
+18-25,Lambayeque,bajo,2.27,4,0
+46-60,Lima,medio,1.93,4,2
+60+,Ucayali,bajo,2.61,3,1
+26-35,Lima,alto,2.42,4,3
+36-45,Lima,medio,3.75,9,3
+46-60,Junín,medio,3.5,7,1
+60+,Lima,medio,2.8,5,0
+18-25,Lambayeque,alto,2.79,4,0
+60+,Loreto,medio,3.34,7,4
+46-60,San Martín,medio,3.2,3,2
+46-60,Piura,medio,2.46,5,3
+60+,Lima,bajo,1.8,3,3
+60+,Piura,alto,1.78,1,4
+46-60,Piura,bajo,3.81,4,3
+36-45,Tumbes,medio,1.68,4,1
+36-45,Puno,alto,2.21,4,2
+36-45,Huancavelica,bajo,2.85,4,4
+26-35,Huánuco,alto,3.07,3,3
+18-25,Tumbes,bajo,1.14,4,2
+26-35,Piura,medio,4.39,3,0
+46-60,Lima,medio,2.26,6,0
+26-35,Piura,medio,4.53,1,2
+36-45,Amazonas,bajo,2.83,8,2
+60+,Lima,alto,2.45,3,4
+18-25,Áncash,alto,3.41,6,4
+18-25,Lima,medio,2.36,4,1
+18-25,Tacna,bajo,4.06,6,0
+18-25,Moquegua,medio,4.39,2,4
+46-60,Lima,medio,4.08,1,3
+26-35,Ayacucho,alto,2.87,7,1
+18-25,Cusco,alto,2.86,3,3
+26-35,Lima,medio,3.8,7,0
+46-60,Lima,medio,4.25,3,3
+46-60,Madre de Dios,medio,2.22,8,1
+18-25,Lambayeque,alto,2.88,3,0
+46-60,Junín,medio,1.49,4,0
+18-25,La Libertad,medio,2.31,8,0
+60+,Lima,medio,2.5,3,2
+60+,Lima,medio,3.78,4,4
+18-25,Lima,alto,3.41,3,3
+18-25,Puno,bajo,2.23,7,1
+36-45,San Martín,alto,3.11,2,2
+18-25,Callao,alto,2.27,2,2
+60+,Lima,medio,2.43,6,3
+26-35,Cajamarca,medio,2.01,4,3
+46-60,San Martín,bajo,3.63,3,1
+18-25,Cusco,bajo,3.81,4,2
+46-60,Lima,bajo,1.54,4,0
+60+,Tacna,medio,1.5,6,4
+18-25,Madre de Dios,bajo,4.25,6,2
+18-25,Ica,bajo,2.41,5,3
+18-25,Ica,alto,3.8,5,3
+60+,San Martín,bajo,1.5,5,1
+36-45,Tacna,medio,2.12,2,1
+26-35,Lima,medio,3.54,4,1
+60+,Ica,medio,2.09,8,0
+18-25,Piura,bajo,3.69,6,2
+60+,Amazonas,bajo,3.45,7,4
+46-60,Lima,bajo,2.37,5,1
+46-60,Huánuco,alto,3.28,3,4
+26-35,San Martín,medio,2.62,4,2
+36-45,Puno,medio,1.77,5,1
+18-25,Lima,medio,3.65,5,0
+36-45,San Martín,alto,1.8,8,4
+60+,Pasco,medio,3.27,5,2
+18-25,Lima,medio,2.6,10,3
+46-60,Lima,bajo,3.46,1,1
+26-35,Lima,medio,2.12,2,3
+18-25,Lima,medio,2.93,9,1
+36-45,Lima,medio,2.37,3,0
+18-25,San Martín,medio,1.56,6,1
+26-35,Apurímac,medio,2.24,5,4
+36-45,Puno,medio,0.0,3,0
+60+,Junín,alto,3.08,7,2
+46-60,Lima,medio,2.45,9,1
+60+,Lima,medio,1.16,5,1
+46-60,Puno,medio,2.24,6,4
+26-35,Lima,alto,1.7,3,4
+46-60,Áncash,alto,3.17,5,1
+36-45,Lima,bajo,3.72,4,0
+60+,Tumbes,bajo,3.45,5,2
+46-60,Huancavelica,bajo,2.45,5,4
+36-45,Pasco,alto,3.9,11,2
+18-25,Moquegua,medio,2.77,5,1
+36-45,Moquegua,bajo,1.82,9,3
+18-25,Ucayali,medio,4.68,4,2
+18-25,Pasco,medio,0.16,4,3
+60+,Lima,alto,1.84,1,4
+26-35,Piura,medio,2.43,6,0
+36-45,Junín,medio,0.64,2,1
+18-25,Madre de Dios,medio,3.69,9,3
+36-45,Huancavelica,medio,0.89,6,0
+36-45,Lima,medio,2.58,9,2
+60+,Puno,alto,2.39,7,2
+26-35,Lima,alto,1.85,5,0
+46-60,Ica,bajo,1.41,6,4
+26-35,Lima,medio,2.58,5,2
+60+,San Martín,alto,2.36,4,2
+36-45,Lima,medio,3.8,6,2
+60+,Tumbes,alto,0.36,7,1
+26-35,Lima,bajo,3.14,3,4
+26-35,Apurímac,medio,1.83,4,4
+36-45,Pasco,medio,2.04,4,3
+60+,Lima,medio,2.79,7,1
+26-35,Lima,medio,4.22,8,0
+36-45,Madre de Dios,bajo,1.78,7,3
+46-60,Cajamarca,alto,2.62,10,3
+36-45,Ica,alto,2.12,6,3
+60+,Lima,medio,2.83,5,4
+26-35,Puno,bajo,1.46,6,4
+60+,Lima,medio,2.78,7,1
+26-35,Lima,medio,2.9,3,2
+60+,San Martín,medio,3.75,4,4
+18-25,Ucayali,bajo,4.25,4,3
+36-45,Lambayeque,medio,1.43,4,1
+26-35,Ayacucho,medio,4.25,3,2
+60+,Tumbes,alto,2.77,5,0
+60+,Ucayali,medio,1.35,5,0
+60+,Pasco,medio,2.84,3,4
+60+,Tacna,medio,2.16,4,2
+18-25,Loreto,medio,3.04,6,2
+46-60,Junín,alto,3.52,4,4
+46-60,Loreto,bajo,2.4,3,1
+26-35,Madre de Dios,bajo,3.29,7,4
+26-35,Áncash,medio,2.42,3,2
+18-25,Moquegua,medio,2.21,5,1
+60+,Junín,medio,0.48,3,4
+60+,Madre de Dios,medio,1.95,4,0
+60+,Madre de Dios,bajo,3.18,4,4
+60+,Lima,alto,2.47,5,0
+26-35,Arequipa,alto,2.03,4,3
+26-35,Madre de Dios,medio,1.07,7,4
+26-35,Lima,alto,1.63,6,2
+26-35,San Martín,medio,1.68,5,3
+46-60,Madre de Dios,medio,2.48,7,0
+18-25,San Martín,medio,3.13,6,3
+46-60,Lima,bajo,3.4,4,1
+18-25,Lima,medio,1.28,7,2
+18-25,Lima,medio,2.81,6,2
+36-45,Lima,bajo,1.66,2,2
+36-45,Amazonas,alto,1.94,6,4
+60+,Ayacucho,alto,0.68,4,3
+26-35,Ucayali,medio,0.47,5,3
+18-25,Tumbes,medio,1.37,9,1
+18-25,Piura,medio,3.36,4,3
+18-25,Ica,bajo,1.56,2,1
+26-35,Lima,alto,1.57,6,3
+36-45,Piura,alto,2.57,2,1
+26-35,Loreto,medio,4.67,4,2
+18-25,Tacna,bajo,2.13,7,1
+18-25,Lima,medio,3.17,3,3
+46-60,Callao,medio,4.87,11,4
+26-35,La Libertad,medio,1.92,7,4
+60+,Áncash,medio,4.6,4,0
+26-35,San Martín,bajo,1.99,6,1
+46-60,Loreto,bajo,3.27,7,2
+18-25,Junín,alto,3.02,5,0
+26-35,Moquegua,medio,5.66,5,3
+18-25,Ucayali,medio,2.02,3,3
+46-60,Ayacucho,medio,2.06,8,0
+36-45,Ayacucho,alto,1.02,3,2
+26-35,Lima,medio,1.82,6,4
+18-25,Lima,medio,2.13,3,3
+26-35,Lima,alto,3.92,5,4
+26-35,Pasco,medio,1.9,7,0
+46-60,Lambayeque,alto,3.26,8,0
+46-60,Pasco,medio,2.13,4,3
+36-45,Lima,bajo,4.7,4,2
+46-60,Huancavelica,medio,2.05,6,0
+46-60,Lima,medio,3.86,9,4
+36-45,La Libertad,alto,2.14,3,4
+26-35,Ayacucho,alto,1.14,9,3
+60+,Lima,medio,3.03,5,3
+36-45,La Libertad,bajo,3.03,5,1
+26-35,La Libertad,medio,2.58,8,4
+26-35,San Martín,medio,1.73,10,4
+46-60,Lima,medio,2.1,6,1
+60+,Cusco,alto,2.64,2,3
+36-45,Madre de Dios,alto,1.71,3,0
+18-25,Huánuco,bajo,2.72,5,2
+60+,Tacna,medio,2.06,5,2
+26-35,Pasco,alto,1.91,7,3
+36-45,Apurímac,medio,3.82,6,3
+26-35,Huancavelica,alto,1.37,3,0
+18-25,San Martín,alto,2.04,4,0
+26-35,Arequipa,alto,3.4,4,0
+18-25,La Libertad,medio,2.18,7,1
+36-45,Lima,bajo,0.47,5,2
+26-35,Lambayeque,medio,2.89,5,0
+26-35,Madre de Dios,alto,1.73,7,0
+60+,Piura,medio,4.14,4,4
+18-25,Lima,alto,3.07,4,2
+26-35,Loreto,medio,2.18,9,2
+46-60,Pasco,bajo,1.52,12,2
+60+,Madre de Dios,medio,3.44,6,0
+18-25,Pasco,medio,2.85,6,3
+60+,Lima,medio,2.69,3,1
+26-35,Ucayali,medio,3.24,2,4
+18-25,San Martín,bajo,1.47,6,3
+36-45,Ica,medio,3.57,2,2
+60+,San Martín,bajo,3.38,4,0
+60+,Madre de Dios,medio,1.62,5,3
+60+,Lima,medio,1.94,5,2
+36-45,Arequipa,medio,2.55,7,3
+18-25,Lima,bajo,1.69,2,3
+60+,Lima,alto,1.68,1,2
+18-25,Huancavelica,bajo,4.51,4,4
+26-35,Lima,alto,1.51,5,2
+18-25,Tumbes,medio,1.78,1,3
+60+,Ayacucho,medio,1.96,8,4
+18-25,Ica,bajo,1.38,5,2
+18-25,Lima,bajo,2.28,3,4
+46-60,Pasco,bajo,3.02,4,3
+26-35,Tacna,bajo,3.0,4,1
+36-45,San Martín,medio,3.1,6,2
+18-25,Huánuco,alto,2.37,2,0
+26-35,Tumbes,medio,1.92,2,0
+18-25,Cajamarca,medio,1.21,5,4
+36-45,Tacna,medio,2.75,6,0
+26-35,Madre de Dios,alto,1.45,6,4
+60+,Arequipa,medio,2.37,6,2
+36-45,Lima,medio,3.54,6,3
+18-25,Lima,bajo,1.94,3,4
+46-60,Junín,bajo,3.12,2,4
+60+,Amazonas,medio,3.32,6,1
+46-60,Lima,medio,1.96,4,4
+36-45,Apurímac,bajo,1.45,4,0
+18-25,Lima,bajo,1.66,1,2
+18-25,La Libertad,medio,0.0,7,1
+60+,Lima,medio,1.72,4,4
+18-25,Cusco,alto,2.47,6,3
+18-25,San Martín,medio,1.93,9,1
+60+,Huancavelica,medio,1.98,4,4
+18-25,Pasco,medio,1.68,3,2
+36-45,Apurímac,medio,2.04,7,2
+26-35,La Libertad,medio,2.43,3,1
+46-60,Lima,medio,2.21,7,4
+46-60,Lima,alto,4.53,6,2
+18-25,Huancavelica,medio,2.12,3,0
+36-45,Arequipa,bajo,4.06,6,0
+18-25,Pasco,medio,2.28,6,2
+46-60,Junín,bajo,0.12,5,4
+18-25,Piura,bajo,1.45,12,1
+46-60,Lima,medio,2.6,1,2
+60+,Cajamarca,alto,3.09,3,2
+26-35,Tumbes,medio,2.53,5,2
+60+,San Martín,bajo,2.08,6,1
+18-25,Cusco,medio,2.4,10,3
+46-60,Pasco,medio,0.5,3,0
+36-45,San Martín,medio,2.6,4,3
+60+,Áncash,bajo,4.12,6,1
+36-45,Lambayeque,alto,2.85,4,3
+46-60,Cusco,medio,1.68,7,3
+60+,Tacna,medio,2.52,1,3
+26-35,Tacna,medio,2.13,5,1
+36-45,Lima,bajo,1.72,5,3
+60+,Lambayeque,bajo,1.85,6,3
+26-35,Lima,medio,1.8,6,3
+36-45,Lima,medio,0.9,1,2
+60+,Lima,medio,1.82,5,3
+36-45,Arequipa,alto,1.35,4,3
+46-60,Ucayali,medio,2.45,7,4
+26-35,Puno,bajo,2.47,4,0
+18-25,Ucayali,medio,2.11,5,1
+60+,Moquegua,bajo,0.31,5,3
+26-35,Lambayeque,bajo,1.86,7,3
+60+,Piura,medio,2.12,5,3
+36-45,La Libertad,medio,0.75,6,0
+60+,Moquegua,bajo,1.23,2,0
+36-45,Apurímac,alto,2.05,10,3
+18-25,La Libertad,bajo,3.04,5,3
+60+,Lima,medio,2.49,6,4
+26-35,Junín,bajo,3.05,5,2
+18-25,San Martín,alto,3.15,3,4
+18-25,Lima,bajo,3.75,1,0
+18-25,Junín,medio,2.7,5,1
+36-45,Arequipa,bajo,1.34,6,4
+46-60,Lima,bajo,4.4,6,1
+18-25,Lima,bajo,0.99,3,1
+46-60,Moquegua,alto,3.44,3,3
+60+,Apurímac,bajo,4.95,4,3
+46-60,Áncash,bajo,2.93,3,0
+18-25,Lima,bajo,2.05,3,0
+60+,Huancavelica,bajo,4.15,4,3
+18-25,Lima,medio,1.81,3,4
+60+,Moquegua,bajo,3.06,8,1
+60+,Arequipa,alto,2.43,8,4
+60+,Loreto,bajo,3.01,0,4
+60+,Lima,medio,2.24,3,3
+18-25,San Martín,medio,3.57,8,3
+26-35,Lima,alto,2.94,4,4
+18-25,Moquegua,alto,0.11,4,2
+36-45,Lima,medio,0.0,5,4
+46-60,Amazonas,medio,3.83,6,2
+18-25,Ayacucho,medio,3.97,8,2
+36-45,Loreto,alto,3.7,6,0
+18-25,Ayacucho,bajo,0.79,7,0
+60+,Moquegua,bajo,1.92,5,4
+60+,Amazonas,alto,1.46,5,2
+26-35,Pasco,medio,1.27,2,2
+18-25,Loreto,medio,0.52,5,0
+46-60,Lima,bajo,1.47,5,1
+18-25,Madre de Dios,medio,1.8,2,2
+36-45,Lambayeque,alto,2.0,5,4
+46-60,Huancavelica,medio,1.25,3,3
+60+,Huánuco,medio,2.73,5,4
+46-60,Lima,bajo,0.98,2,1
+18-25,Ayacucho,medio,1.88,9,0
+18-25,Ucayali,medio,2.73,7,0
+60+,La Libertad,bajo,2.55,6,3
+46-60,Cajamarca,bajo,1.26,3,2
+18-25,Cusco,medio,1.66,3,3
+60+,La Libertad,medio,2.14,8,0
+60+,Ucayali,bajo,2.12,5,3
+36-45,Tumbes,medio,1.52,6,1
+46-60,Ucayali,bajo,2.41,9,4
+18-25,Tumbes,medio,2.28,4,2
+26-35,Arequipa,medio,2.69,6,1
+36-45,Ayacucho,medio,2.74,4,0
+18-25,La Libertad,bajo,1.75,8,3
+36-45,Lima,medio,1.24,5,4
+60+,Lima,alto,3.8,4,3
+18-25,Ayacucho,alto,4.13,1,3
+18-25,Lima,medio,2.39,7,4
+46-60,Lima,alto,3.13,6,0
+26-35,Junín,medio,3.59,4,3
+26-35,Madre de Dios,medio,4.15,5,1
+60+,Amazonas,bajo,1.87,3,2
+36-45,Ica,medio,4.13,5,4
+36-45,Pasco,medio,2.76,5,3
+18-25,La Libertad,medio,2.87,8,0
+18-25,Ucayali,alto,2.33,4,4
+36-45,Junín,alto,2.73,6,0
+18-25,Lima,medio,3.02,7,3
+26-35,Madre de Dios,medio,2.8,4,4
+18-25,Lambayeque,medio,3.78,2,3
+26-35,Pasco,medio,0.92,6,3
+46-60,Tacna,medio,2.23,6,2
+26-35,Lima,alto,1.27,3,3
+60+,Lima,medio,2.66,4,1
+36-45,San Martín,alto,3.41,5,2
+26-35,Cajamarca,bajo,0.99,5,1
+18-25,Lima,alto,1.88,8,3
+46-60,Ica,alto,0.07,3,3
+60+,Lima,bajo,1.35,6,1
+60+,La Libertad,medio,3.53,4,3
+26-35,La Libertad,bajo,0.78,6,1
+46-60,Moquegua,medio,3.58,1,3
+36-45,Tacna,medio,4.23,7,1
+60+,Lima,alto,1.87,5,2
+26-35,Ucayali,medio,3.07,3,3
+36-45,Tacna,bajo,0.6,11,2
+36-45,Lima,medio,2.7,2,4
+36-45,Lima,medio,3.68,4,2
+18-25,Ucayali,bajo,2.53,6,4
+18-25,Cajamarca,medio,1.15,4,2
+46-60,Pasco,medio,1.19,6,0
+26-35,Lima,alto,1.8,7,2
+18-25,Lambayeque,medio,3.97,2,1
+36-45,Cajamarca,bajo,4.78,4,1
+46-60,Pasco,bajo,4.59,4,3
+46-60,San Martín,medio,3.06,6,0
+18-25,Pasco,alto,1.12,6,2
+46-60,Lima,medio,2.42,0,2
+26-35,Moquegua,medio,1.57,3,1
+46-60,Puno,alto,3.39,3,2
+18-25,Madre de Dios,alto,3.35,4,4
+46-60,Callao,medio,1.12,2,2
+60+,Cusco,medio,0.98,5,0
+60+,Loreto,bajo,1.93,1,3
+26-35,Callao,medio,2.25,4,3
+26-35,Ucayali,medio,4.07,9,0
+60+,Ucayali,medio,3.83,3,2
+26-35,Arequipa,bajo,1.62,4,4
+26-35,Arequipa,bajo,1.55,4,4
+18-25,Huánuco,medio,2.11,9,4
+26-35,Madre de Dios,medio,3.16,7,1
+26-35,Loreto,bajo,2.66,4,4
+60+,Ayacucho,alto,3.24,3,1
+26-35,Cusco,bajo,2.37,4,0
+36-45,Ica,alto,3.9,3,1
+46-60,Lambayeque,medio,2.3,3,1
+60+,Lima,medio,2.91,7,1
+60+,Tumbes,bajo,3.13,5,4
+26-35,Puno,medio,2.33,7,3
+36-45,Lambayeque,bajo,1.4,4,1
+18-25,La Libertad,medio,2.0,4,3
+18-25,Junín,medio,4.78,5,2
+46-60,Áncash,alto,3.66,5,2
+18-25,Ayacucho,medio,3.07,6,4
+46-60,Amazonas,alto,2.79,5,3
+60+,Lima,bajo,2.54,8,2
+36-45,Lima,medio,3.73,10,4
+46-60,Lima,alto,3.34,12,0
+36-45,Ucayali,medio,1.48,8,4
+26-35,Lima,alto,1.75,8,2
+26-35,Amazonas,medio,3.64,7,3
+26-35,Lima,bajo,3.26,5,0
+46-60,Lima,alto,1.33,2,4
+26-35,Puno,bajo,2.57,6,0
+60+,Tacna,bajo,2.22,2,0
+18-25,Lambayeque,bajo,3.52,7,3
+18-25,Lima,medio,2.25,3,3
+60+,Cusco,alto,4.75,10,3
+60+,Loreto,bajo,2.09,7,0
+46-60,Puno,bajo,2.1,7,1
+36-45,Cajamarca,bajo,1.98,4,3
+18-25,Lima,bajo,0.17,4,3
+18-25,Ucayali,alto,2.41,4,0
+36-45,Piura,medio,4.67,5,2
+60+,Lima,bajo,0.64,2,0
+60+,Lima,bajo,1.53,4,3
+26-35,Lima,alto,1.95,6,0
+18-25,Lima,bajo,3.33,7,2
+60+,Áncash,medio,3.87,2,1
+60+,Junín,alto,1.12,8,4
+36-45,Huánuco,medio,2.95,3,4
+26-35,Lima,alto,2.81,4,3
+18-25,Piura,medio,2.32,3,4
+18-25,Apurímac,alto,1.4,6,3
+36-45,Huánuco,bajo,1.84,4,0
+46-60,Amazonas,medio,2.19,7,4
+60+,Lima,medio,2.59,6,4
+18-25,Lima,medio,2.56,6,0
+18-25,Ayacucho,medio,2.91,7,4
+60+,Lima,medio,3.44,4,3
+46-60,San Martín,alto,2.34,4,1
+46-60,Madre de Dios,medio,3.07,3,4
+18-25,Ica,medio,3.37,5,3
+18-25,La Libertad,alto,2.68,6,1
+46-60,Lima,medio,1.97,8,3
+36-45,Lima,alto,2.12,4,3
+36-45,Lima,bajo,2.08,4,3
+46-60,Moquegua,medio,1.38,5,1
+36-45,San Martín,bajo,1.34,7,1
+60+,Lima,alto,1.56,4,3
+18-25,Madre de Dios,alto,1.84,5,1
+60+,Lima,alto,2.46,6,0
+18-25,Lima,alto,2.18,3,0
+36-45,Tumbes,bajo,2.66,5,0
+26-35,Lima,medio,2.42,3,0
+60+,Ucayali,medio,1.82,7,0
+18-25,Lima,medio,2.86,5,2
+46-60,Lima,bajo,3.5,10,2
+60+,Huancavelica,bajo,2.75,4,1
+60+,Lima,bajo,1.37,6,1
+60+,Lima,medio,3.53,4,2
+60+,Ica,bajo,3.11,3,2
+60+,Huánuco,medio,2.33,4,4
+36-45,Huánuco,medio,1.75,5,2
+60+,La Libertad,alto,3.02,7,2
+18-25,Lima,medio,2.03,1,4
+26-35,Moquegua,medio,2.79,2,1
+26-35,Callao,alto,1.75,12,3
+46-60,Arequipa,medio,4.86,2,4
+26-35,Lambayeque,medio,4.3,2,1
+60+,Pasco,medio,3.63,3,1
+18-25,Lima,bajo,2.56,7,4
+26-35,Áncash,medio,3.22,3,1
+36-45,Piura,medio,3.58,4,4
+36-45,Piura,medio,2.68,6,4
+36-45,Lima,alto,3.19,7,0
+36-45,Puno,medio,3.4,4,1
+18-25,Junín,medio,2.49,5,3
+18-25,Tumbes,alto,3.22,7,1
+46-60,San Martín,medio,2.05,7,4
+18-25,Ayacucho,bajo,2.93,1,1
+46-60,Lima,alto,3.42,6,2
+18-25,Lima,bajo,1.88,5,4
+46-60,Madre de Dios,alto,1.74,1,4
+26-35,Ayacucho,medio,3.43,4,3
+46-60,Callao,medio,2.88,6,2
+26-35,Loreto,medio,3.15,5,3
+18-25,Lambayeque,medio,2.04,4,4
+26-35,Lima,medio,2.61,6,4
+36-45,Áncash,medio,2.55,1,1
+26-35,Apurímac,bajo,2.71,9,4
+18-25,Ucayali,bajo,2.93,4,1
+46-60,Madre de Dios,bajo,2.84,4,3
+46-60,Lima,medio,1.15,4,0
+60+,Lima,bajo,2.34,5,4
+36-45,Callao,medio,3.15,3,2
+36-45,Ica,medio,4.07,7,1
+26-35,Lima,bajo,1.78,6,1
+60+,Pasco,medio,0.94,5,3
+26-35,Piura,bajo,3.55,6,0
+18-25,Lima,medio,3.39,5,3
+46-60,Lima,bajo,2.99,8,1
+18-25,Madre de Dios,bajo,1.86,6,1
+46-60,Cusco,medio,2.07,8,1
+60+,Moquegua,medio,2.02,4,1
+46-60,Huancavelica,bajo,2.18,2,1
+26-35,Huánuco,alto,4.96,5,1
+46-60,Lima,medio,2.66,6,0
+26-35,Moquegua,bajo,3.16,0,3
+46-60,Lima,medio,4.02,5,4
+26-35,Madre de Dios,medio,2.49,4,3
+26-35,Huánuco,medio,1.68,2,4
+36-45,Moquegua,alto,2.46,5,1
+18-25,Madre de Dios,bajo,3.65,9,0
+36-45,Lima,bajo,4.42,2,0
+36-45,Arequipa,alto,3.11,4,0
+18-25,Lima,medio,1.68,5,2
+60+,Madre de Dios,medio,2.11,7,3
+18-25,Lima,bajo,3.95,1,3
+26-35,Arequipa,alto,2.81,1,0
+36-45,Ica,medio,2.15,3,4
+60+,Piura,bajo,1.12,6,3
+46-60,Ucayali,medio,0.47,10,0
+46-60,Pasco,alto,2.47,3,1
+18-25,San Martín,medio,3.83,9,4
+36-45,Lambayeque,medio,1.72,3,0
+18-25,Huancavelica,bajo,3.43,4,0
+36-45,Callao,alto,2.63,4,2
+18-25,La Libertad,alto,2.78,6,0
+46-60,San Martín,medio,1.84,5,0
+18-25,Tacna,bajo,1.22,3,2
+18-25,Áncash,alto,2.52,5,4
+36-45,Lima,alto,2.31,4,3
+36-45,Lima,medio,0.31,5,4
+36-45,Loreto,medio,1.14,6,3
+36-45,Ica,bajo,2.59,4,4
+60+,Cusco,bajo,2.1,9,0
+18-25,Lima,medio,2.86,5,0
+60+,Ayacucho,medio,1.46,6,1
+60+,Apurímac,bajo,3.3,4,4
+36-45,Lima,medio,3.13,3,4
+26-35,Apurímac,medio,3.31,4,2
+26-35,Lima,medio,3.83,4,3
+18-25,Cusco,medio,4.01,4,4
+60+,San Martín,medio,3.29,5,1
+46-60,Lambayeque,alto,3.46,13,0
+36-45,Ica,medio,3.32,7,0
+26-35,Lima,bajo,3.49,6,2
+46-60,San Martín,medio,4.66,5,3
+18-25,Moquegua,medio,2.88,3,3
+26-35,Lambayeque,medio,3.5,7,1
+26-35,Lima,bajo,1.78,5,0
+36-45,Tacna,medio,3.36,7,1
+60+,Cusco,medio,2.37,6,3
+46-60,Puno,bajo,1.25,4,1
+46-60,Huancavelica,medio,3.32,3,4
+46-60,Pasco,bajo,1.44,4,1
+36-45,La Libertad,bajo,2.76,6,2
+46-60,Tumbes,alto,2.94,4,2
+36-45,Lima,medio,3.46,8,2
+36-45,Ica,medio,3.34,3,0
+36-45,Lima,medio,1.48,6,2
+26-35,Junín,medio,2.66,4,4
+60+,Ayacucho,alto,3.17,4,2
+60+,Cusco,alto,1.47,9,3
+60+,Moquegua,bajo,0.81,6,0
+36-45,Lima,bajo,3.98,10,0
+60+,Arequipa,alto,1.27,2,2
+26-35,Callao,medio,3.98,9,0
+18-25,Arequipa,medio,2.87,8,1
+18-25,Arequipa,bajo,2.72,8,0
+46-60,Lima,medio,3.56,7,3
+26-35,Lima,medio,1.71,3,2
+18-25,San Martín,medio,1.45,8,4
+36-45,Moquegua,bajo,2.63,6,1
+60+,Apurímac,alto,3.91,5,1
+26-35,Áncash,medio,3.05,2,1
+60+,Lima,alto,2.0,5,0
+18-25,Apurímac,bajo,2.41,7,1
+26-35,Lima,medio,2.65,3,2
+46-60,Puno,medio,3.65,4,3
+18-25,Lima,alto,1.39,4,2
+26-35,Lima,medio,3.53,4,0
+36-45,Arequipa,medio,3.32,5,0
+60+,Junín,alto,3.59,5,0
+18-25,Ucayali,bajo,3.19,9,4
+18-25,Tacna,medio,2.64,6,0
+36-45,Loreto,alto,2.09,4,1
+26-35,Áncash,medio,2.26,3,4
+26-35,Tumbes,bajo,1.73,6,1
+46-60,La Libertad,alto,3.35,7,2
+18-25,Amazonas,medio,1.8,7,1
+46-60,Junín,medio,4.21,8,2
+60+,Lima,medio,2.51,8,0
+46-60,Loreto,alto,1.71,5,4
+18-25,Amazonas,medio,2.28,5,3
+60+,Junín,medio,1.51,4,2
+26-35,Junín,medio,2.74,1,3
+26-35,Pasco,alto,1.93,6,2
+46-60,Piura,alto,0.33,4,2
+46-60,Lima,bajo,1.41,4,1
+60+,Lima,bajo,0.96,8,3
+18-25,Piura,bajo,3.68,7,3
+26-35,Lima,alto,2.82,5,4
+26-35,Pasco,alto,2.58,9,1
+36-45,Áncash,medio,3.43,7,1
+18-25,Tumbes,bajo,1.3,5,2
+46-60,Cajamarca,medio,2.5,5,2
+46-60,Lima,medio,2.03,7,1
+36-45,Madre de Dios,bajo,1.6,8,4
+60+,Lima,bajo,1.43,5,3
+36-45,Madre de Dios,medio,2.94,8,0
+60+,Huánuco,medio,2.74,7,0
+18-25,Lima,alto,3.73,5,0
+46-60,Ica,bajo,2.66,5,4
+46-60,Lima,medio,2.9,7,3
+36-45,Tumbes,medio,2.1,5,2
+18-25,Tumbes,medio,1.62,3,1
+18-25,Tacna,medio,2.57,8,4
+26-35,Tumbes,alto,1.74,4,4
+36-45,Ayacucho,bajo,3.66,7,2
+26-35,Madre de Dios,medio,0.42,5,1
+36-45,Arequipa,alto,3.66,4,1
+26-35,Lima,bajo,2.08,3,4
+36-45,Tumbes,bajo,3.29,8,4
+36-45,Apurímac,bajo,2.1,8,3
+60+,Loreto,bajo,2.43,5,1
+36-45,Lima,medio,4.12,7,3
+36-45,Lima,medio,3.66,5,4
+36-45,Cusco,alto,2.44,4,0
+18-25,Ucayali,bajo,2.44,2,1
+60+,Huánuco,bajo,1.7,3,0
+60+,Tacna,medio,2.35,8,4
+18-25,Madre de Dios,bajo,2.3,5,3
+46-60,Lima,bajo,2.33,6,4
+26-35,Junín,bajo,2.69,8,3
+26-35,Ayacucho,medio,3.1,8,0
+26-35,Arequipa,bajo,1.87,7,4
+18-25,Lambayeque,medio,2.45,6,1
+18-25,Lima,medio,1.48,5,3
+26-35,Puno,medio,1.54,7,0
+18-25,Cusco,medio,2.52,4,1
+46-60,Callao,alto,3.98,5,0
+60+,Cusco,bajo,1.56,5,2
+46-60,Lima,medio,2.57,3,2
+46-60,Lima,bajo,2.03,8,0
+18-25,Puno,bajo,3.56,8,0
+36-45,Loreto,medio,3.72,5,1
+18-25,San Martín,medio,1.69,0,1
+60+,Lima,medio,2.9,6,4
+18-25,Apurímac,bajo,1.88,2,0
+60+,Lima,alto,0.36,5,3
+60+,Lambayeque,medio,2.65,2,3
+60+,Madre de Dios,alto,3.17,4,4
+60+,San Martín,medio,1.93,9,3
+26-35,Ica,bajo,3.36,7,2
+46-60,Puno,alto,2.86,5,3
+36-45,Lima,medio,1.46,6,2
+36-45,Moquegua,medio,3.15,6,2
+26-35,Ica,medio,0.0,0,0
+26-35,Apurímac,medio,2.48,5,3
+46-60,Huancavelica,medio,3.33,3,2
+46-60,Pasco,bajo,1.97,5,4
+60+,Callao,medio,0.43,1,4
+18-25,Cajamarca,medio,3.02,4,4
+46-60,Huánuco,medio,1.66,3,4
+46-60,Arequipa,medio,2.63,1,2
+60+,Tumbes,alto,1.12,3,0
+36-45,Madre de Dios,alto,3.52,9,1
+26-35,Lima,medio,3.27,3,4
+36-45,Lima,medio,2.56,5,3
+36-45,Lima,alto,3.28,6,2
+46-60,Áncash,alto,2.38,3,0
+26-35,Tumbes,alto,3.56,7,0
+26-35,Lima,alto,4.06,2,1
+46-60,Moquegua,medio,3.17,3,2
+46-60,Amazonas,medio,2.03,6,3
+18-25,Junín,alto,2.19,4,3
+18-25,Áncash,alto,3.27,2,1
+26-35,Loreto,medio,4.25,6,0
+26-35,Apurímac,medio,5.14,5,4
+18-25,Lambayeque,medio,0.48,9,3
+36-45,Tumbes,medio,2.46,3,0
+26-35,Piura,alto,1.98,6,0
+18-25,Ucayali,alto,3.07,4,2
+18-25,Huancavelica,medio,2.02,2,4
+26-35,Huancavelica,medio,3.05,6,1
+26-35,Amazonas,medio,2.67,2,0
+26-35,Loreto,medio,2.83,8,4
+60+,Lima,bajo,4.89,1,0
+46-60,Lima,bajo,2.69,4,2
+26-35,Madre de Dios,medio,2.99,11,3
+26-35,Lima,medio,1.72,5,2
+60+,Moquegua,medio,2.28,2,0
+46-60,Callao,bajo,2.96,1,4
+60+,Lambayeque,medio,4.22,9,4
+46-60,La Libertad,alto,2.94,6,1
+46-60,Cusco,alto,2.68,3,0
+60+,Huancavelica,bajo,3.7,6,2
+46-60,Junín,medio,4.02,1,3
+36-45,Madre de Dios,alto,3.73,6,3
+36-45,Lima,medio,2.9,5,4
+18-25,Callao,medio,2.78,2,2
+18-25,San Martín,bajo,3.55,8,4
+26-35,Piura,medio,3.69,3,0
+18-25,Huánuco,alto,1.19,5,0
+18-25,Junín,bajo,2.43,2,4
+36-45,Lima,medio,1.35,3,4
+60+,Huancavelica,medio,2.75,3,0
+26-35,Cusco,bajo,3.39,5,0
+46-60,Ayacucho,bajo,2.31,5,1
+26-35,Lima,medio,1.16,7,1
+60+,Moquegua,medio,1.58,5,3
+36-45,Arequipa,alto,1.94,9,1
+26-35,Lima,bajo,1.85,5,3
+46-60,Lima,alto,3.27,4,4
+18-25,Huancavelica,bajo,1.84,10,2
+26-35,Madre de Dios,bajo,2.13,2,3
+46-60,Puno,medio,2.42,10,1
+46-60,Amazonas,medio,2.86,3,3
+18-25,Pasco,bajo,1.7,8,3
+36-45,Huancavelica,medio,2.16,5,4
+26-35,Ayacucho,bajo,1.81,5,0
+60+,Ucayali,medio,2.53,1,2
+26-35,Lima,medio,2.76,6,3
+60+,Cusco,medio,1.59,4,3
+26-35,La Libertad,bajo,4.5,7,1
+18-25,Amazonas,bajo,1.62,2,1
+60+,Piura,bajo,3.75,5,0
+46-60,Cusco,bajo,2.89,4,1
+26-35,Lima,medio,2.56,5,0
+36-45,Lima,medio,3.33,7,2
+18-25,San Martín,alto,0.96,7,0
+18-25,Lima,medio,3.52,3,1
+60+,La Libertad,medio,0.83,6,1
+26-35,Tacna,alto,2.93,6,4
+18-25,Áncash,bajo,3.31,2,0
+18-25,Apurímac,bajo,3.53,4,4
+60+,Huánuco,medio,2.58,3,2
+18-25,Lima,medio,0.0,2,0
+60+,Lima,bajo,1.86,7,4
+18-25,Ayacucho,bajo,2.98,3,3
+26-35,Ayacucho,bajo,2.69,9,3
+46-60,Lima,alto,2.58,8,1
+46-60,Lima,medio,3.29,5,0
+26-35,Lima,alto,2.94,8,3
+18-25,Lima,medio,2.46,5,0
+18-25,Lima,bajo,3.36,6,0
+46-60,Lima,alto,4.21,6,4
+18-25,Lima,medio,1.53,4,4
+46-60,Loreto,bajo,1.06,5,2
+36-45,Ayacucho,medio,2.35,5,0
+60+,Lima,bajo,3.74,9,2
+18-25,Cusco,medio,1.94,4,1
+60+,Amazonas,medio,1.31,8,3
+60+,Lambayeque,alto,3.03,4,0
+46-60,Cajamarca,bajo,2.86,2,1
+26-35,Arequipa,alto,3.23,6,4
+36-45,Tacna,medio,2.51,6,0
+46-60,Apurímac,bajo,2.06,3,2
+18-25,Huancavelica,medio,2.4,5,3
+60+,Madre de Dios,bajo,2.19,8,0
+46-60,Loreto,medio,2.26,5,1
+60+,Áncash,medio,3.76,3,2
+26-35,Lima,alto,3.73,6,0
+46-60,Ica,medio,2.21,6,4
+18-25,Cusco,medio,0.68,3,3
+46-60,Apurímac,alto,1.91,3,4
+26-35,San Martín,bajo,1.96,4,3
+46-60,Ica,bajo,2.05,1,4
+26-35,Lima,bajo,1.99,3,1
+18-25,Ica,medio,1.07,5,3
+46-60,Callao,bajo,2.66,9,1
+60+,Lima,alto,3.33,5,3
+18-25,Tacna,medio,2.01,2,3
+18-25,Moquegua,medio,3.19,5,4
+36-45,Huancavelica,alto,1.17,4,1
+60+,Huánuco,bajo,2.37,3,4
+36-45,Lima,medio,2.74,6,2
+46-60,Lima,bajo,2.4,3,4
+46-60,Loreto,medio,3.37,5,1
+46-60,Cajamarca,bajo,3.4,6,2
+18-25,Lima,bajo,2.26,8,2
+46-60,Lambayeque,medio,1.32,2,2
+46-60,Ayacucho,bajo,2.23,7,2
+26-35,Pasco,medio,2.96,4,1
+26-35,Arequipa,bajo,1.11,4,3
+18-25,Ucayali,bajo,0.88,5,1
+46-60,Moquegua,bajo,3.74,6,2
+36-45,San Martín,bajo,2.57,6,4
+46-60,La Libertad,medio,3.8,5,4
+60+,San Martín,medio,2.76,3,3
+46-60,Puno,alto,2.54,7,4
+46-60,Pasco,bajo,4.61,5,3
+46-60,Ucayali,bajo,4.09,5,3
+18-25,Amazonas,alto,2.79,2,0
+26-35,Tacna,bajo,1.62,3,1
+46-60,Áncash,bajo,3.53,3,4
+18-25,Tumbes,medio,1.16,2,2
+46-60,Lima,alto,3.7,6,3
+26-35,Arequipa,alto,1.89,10,2
+46-60,Ica,medio,2.71,1,1
+60+,Piura,bajo,2.71,6,2
+18-25,Amazonas,medio,1.93,5,2
+26-35,Cajamarca,alto,0.65,4,2
+36-45,Lima,alto,2.11,6,4
+36-45,Arequipa,medio,2.15,3,1
+18-25,Lima,bajo,3.23,7,1
+60+,Cajamarca,medio,1.21,3,3
+60+,Lima,medio,2.78,3,2
+18-25,Lima,bajo,1.53,9,0
+36-45,La Libertad,bajo,2.48,7,1
+36-45,Puno,bajo,3.42,2,1
+36-45,Madre de Dios,medio,2.92,7,3
+36-45,Moquegua,medio,3.81,5,0
+18-25,Loreto,medio,0.0,3,3
+36-45,Lima,medio,2.65,3,2
+36-45,Callao,bajo,4.89,3,2
+36-45,Huánuco,medio,2.02,9,4
+18-25,Ucayali,alto,2.99,5,4
+60+,Lambayeque,bajo,1.83,5,2
+60+,Piura,bajo,3.52,7,3
+36-45,Tumbes,medio,1.83,4,4
+36-45,Lima,bajo,2.52,5,4
+46-60,Ica,medio,3.62,8,3
+18-25,Lima,bajo,4.02,4,4
+46-60,Lima,medio,2.56,2,0
+46-60,Lima,alto,0.62,3,3
+46-60,Arequipa,bajo,2.69,6,1
+46-60,Lima,alto,3.33,3,4
+46-60,Lima,medio,3.99,3,4
+60+,Puno,bajo,2.3,3,2
+46-60,Lima,medio,1.83,7,3
+26-35,Apurímac,bajo,1.53,7,3
+36-45,Arequipa,bajo,3.48,3,4
+26-35,Tumbes,medio,2.61,7,3
+26-35,Junín,medio,3.14,8,4
+26-35,Lima,medio,3.56,8,4
+46-60,Lima,medio,4.87,5,4
+36-45,Madre de Dios,alto,1.84,4,3
+60+,Madre de Dios,medio,2.45,4,1
+60+,Moquegua,bajo,2.98,2,4
+26-35,Cusco,bajo,1.82,7,2
+18-25,Moquegua,medio,4.52,4,1
+26-35,Cajamarca,bajo,2.79,5,4
+26-35,Amazonas,bajo,3.76,3,1
+36-45,Moquegua,bajo,1.17,9,0
+26-35,Áncash,medio,1.77,2,4
+36-45,Tacna,medio,1.79,2,1
+60+,Pasco,medio,2.89,5,2
+26-35,Ucayali,alto,4.99,2,3
+26-35,Piura,bajo,4.51,3,1
+18-25,Arequipa,alto,4.16,6,2
+26-35,Lima,medio,4.38,7,3
+26-35,Madre de Dios,medio,2.6,3,1
+46-60,Ayacucho,bajo,3.54,6,1
+18-25,Apurímac,medio,1.84,10,4
+46-60,Lima,alto,3.36,4,1
+46-60,Pasco,alto,0.8,9,1
+18-25,Lima,bajo,0.72,7,1
+36-45,Moquegua,medio,1.83,3,2
+60+,Ica,alto,1.3,6,2
+46-60,Piura,medio,2.84,4,1
+46-60,Madre de Dios,bajo,2.32,7,0
+26-35,Apurímac,medio,2.72,1,2
+36-45,Apurímac,medio,1.39,2,2
+26-35,Ayacucho,bajo,4.27,4,3
+36-45,Junín,bajo,1.99,3,2
+60+,Huánuco,medio,2.16,3,4
+26-35,Tacna,alto,3.49,8,4
+18-25,Pasco,bajo,1.96,4,2
+46-60,Lima,bajo,1.64,6,3
+60+,Lima,medio,2.07,7,1
+18-25,Ucayali,medio,1.69,6,4
+26-35,Lima,alto,3.58,3,4
+26-35,Moquegua,medio,2.55,5,2
+18-25,Cusco,bajo,2.14,5,2
+26-35,Huancavelica,medio,1.67,4,2
+18-25,Puno,medio,2.3,5,0
+26-35,Lima,bajo,0.09,8,1
+26-35,Moquegua,medio,4.17,8,0
+46-60,Ica,alto,2.73,8,2
+26-35,Puno,medio,2.96,5,1
+60+,Amazonas,alto,1.97,3,3
+60+,Ucayali,bajo,1.98,1,1
+36-45,Madre de Dios,medio,2.65,5,0
+36-45,Huancavelica,medio,3.31,4,2
+46-60,Áncash,alto,2.51,6,3
+36-45,Callao,alto,1.71,2,0
+26-35,Ica,medio,1.4,7,4
+36-45,Lima,medio,2.57,5,4
+18-25,Callao,alto,1.53,4,3
+46-60,Áncash,bajo,3.69,5,0
+36-45,Cajamarca,bajo,3.26,2,2
+46-60,Lima,medio,2.05,4,1
+46-60,Amazonas,medio,2.71,8,0
+18-25,Junín,medio,2.93,5,1
+46-60,La Libertad,medio,0.61,7,2
+46-60,Puno,bajo,3.98,7,2
+60+,Cajamarca,medio,2.08,5,1
+36-45,Cajamarca,alto,2.09,8,0
+26-35,Moquegua,alto,2.87,7,4
+26-35,Moquegua,medio,2.3,6,4
+36-45,Cusco,medio,2.46,6,4
+26-35,Arequipa,medio,1.46,7,0
+26-35,Huánuco,medio,2.41,11,1
+46-60,San Martín,bajo,2.42,6,2
+18-25,Huánuco,bajo,3.49,7,2
+18-25,Callao,bajo,1.0,4,0
+26-35,Piura,bajo,1.27,3,0
+36-45,San Martín,medio,3.67,8,1
+26-35,Lima,bajo,1.06,3,2
+26-35,Ica,alto,2.32,5,0
+26-35,Ucayali,medio,2.53,5,4
+18-25,Lima,bajo,3.53,9,2
+46-60,Puno,bajo,2.03,2,3
+26-35,Madre de Dios,bajo,2.4,3,0
+60+,Lima,medio,1.56,3,1
+46-60,Lima,medio,2.08,1,0
+36-45,Tacna,bajo,2.09,3,4
+18-25,Lima,medio,2.73,2,0
+46-60,Cusco,medio,2.67,7,0
+36-45,Áncash,medio,2.41,7,4
+18-25,Amazonas,alto,1.69,6,3
+36-45,Lima,medio,0.45,3,1
+60+,Moquegua,medio,0.64,3,0
+60+,Arequipa,alto,2.34,10,1
+18-25,Cajamarca,bajo,1.16,5,4
+36-45,Áncash,medio,0.74,8,0
+36-45,Huancavelica,bajo,2.11,4,0
+36-45,Arequipa,bajo,2.78,7,4
+26-35,Loreto,medio,3.28,7,3
+60+,Áncash,bajo,5.29,7,4
+36-45,Madre de Dios,medio,0.89,4,4
+46-60,Lima,bajo,3.58,7,2
+46-60,Junín,alto,3.36,0,3
+60+,Lima,medio,4.13,2,2
+26-35,Lima,bajo,1.4,7,4
+36-45,Huánuco,bajo,2.77,6,3
+60+,Madre de Dios,bajo,1.11,6,0
+60+,Tacna,medio,2.17,4,3
+36-45,Apurímac,medio,3.12,4,4
+46-60,Huánuco,medio,2.4,4,3
+26-35,Amazonas,medio,3.04,6,1
+36-45,Lima,alto,2.59,0,2
+46-60,Lambayeque,bajo,3.33,7,4
+36-45,Cusco,alto,2.57,5,3
+46-60,Ica,alto,0.95,7,1
+26-35,Lima,medio,1.45,4,2
+18-25,Pasco,medio,2.78,5,1
+60+,Puno,medio,3.17,5,2
+60+,Lima,medio,2.8,10,0
+36-45,Huancavelica,medio,2.04,6,1
+46-60,Piura,bajo,3.08,4,1
+18-25,Huánuco,medio,4.3,5,3
+60+,Arequipa,medio,2.14,6,2
+26-35,Huancavelica,alto,0.26,3,4
+46-60,Lima,medio,3.12,6,3
+18-25,Lima,alto,1.63,3,3
+60+,Áncash,alto,4.12,5,2
+46-60,Callao,bajo,2.43,5,3
+26-35,Áncash,alto,2.99,1,1
+46-60,Tacna,bajo,3.24,3,4
+60+,Ayacucho,medio,1.14,4,4
+60+,Lima,bajo,2.7,4,3
+36-45,Lambayeque,alto,2.51,4,4
+60+,Apurímac,medio,2.99,1,1
+18-25,Apurímac,alto,3.89,9,3
+60+,Ayacucho,bajo,2.58,6,3
+46-60,Huánuco,medio,1.58,4,0
+18-25,Lima,medio,3.98,8,0
+26-35,La Libertad,bajo,2.67,9,3
+36-45,San Martín,bajo,2.13,8,2
+46-60,Lima,alto,1.97,6,3
+60+,Madre de Dios,bajo,2.8,8,3
+36-45,Amazonas,medio,5.0,3,4
+18-25,Lima,medio,3.46,7,2
+60+,Ica,bajo,2.99,2,0
+60+,Lambayeque,bajo,3.1,6,2
+60+,Áncash,medio,2.0,8,0
+36-45,Ica,medio,1.73,4,0
+46-60,La Libertad,bajo,3.3,3,4
+46-60,Lima,alto,1.66,4,0
+26-35,Lima,medio,1.67,4,1
+18-25,San Martín,alto,2.19,7,4
+60+,Lima,medio,4.22,9,3
+60+,Lima,medio,4.71,3,2
+60+,Loreto,medio,3.01,4,0
+36-45,Lima,medio,1.78,8,3
+36-45,Loreto,bajo,1.13,3,0
+46-60,Cusco,bajo,1.69,4,1
+18-25,Junín,bajo,1.88,2,0
+26-35,Lambayeque,medio,1.36,6,1
+46-60,Loreto,medio,1.4,7,1
+26-35,Loreto,medio,3.94,6,1
+36-45,Lima,bajo,1.34,2,3
+18-25,Lima,medio,2.86,4,4
+26-35,Tacna,bajo,3.15,2,0
+60+,La Libertad,alto,3.06,6,0
+36-45,Lima,alto,1.66,7,3
+18-25,Puno,medio,3.02,3,3
+46-60,Lima,medio,2.7,7,2
+36-45,Lima,medio,1.67,3,0
+26-35,Junín,medio,2.48,8,3
+60+,Tacna,medio,3.71,7,3
+46-60,Ica,medio,2.3,6,2
+46-60,Lima,alto,2.12,5,0
+36-45,Madre de Dios,bajo,2.12,5,0
+18-25,Apurímac,medio,1.13,3,3
+60+,Lima,bajo,3.68,3,2
+18-25,Junín,medio,2.36,6,4
+26-35,Huánuco,medio,3.71,8,4
+36-45,Ica,bajo,6.52,5,3
+46-60,Tumbes,bajo,2.57,6,2
+60+,Lambayeque,bajo,1.73,1,3
+26-35,Amazonas,bajo,3.0,2,4
+26-35,Lambayeque,medio,1.89,5,3
+18-25,Junín,medio,3.88,4,1
+26-35,Piura,medio,3.32,2,1
+26-35,Lima,bajo,2.23,6,3
+36-45,Cusco,bajo,2.47,7,3
+36-45,Lima,medio,2.67,4,4
+26-35,Huancavelica,medio,0.0,6,3
+46-60,Loreto,medio,3.52,6,2
+26-35,Callao,bajo,4.65,2,4
+18-25,Puno,bajo,2.2,6,3
+46-60,Lima,medio,2.03,3,4
+26-35,Pasco,medio,3.71,3,1
+46-60,Pasco,bajo,2.31,3,0
+18-25,Lambayeque,alto,4.3,6,0
+26-35,Cajamarca,alto,3.43,6,0
+26-35,San Martín,bajo,2.98,8,0
+36-45,Junín,medio,3.38,14,1
+46-60,Lima,medio,2.99,7,1
+60+,Huancavelica,alto,1.01,2,1
+60+,Amazonas,medio,2.88,1,0
+36-45,Lima,medio,2.97,7,1
+18-25,San Martín,bajo,2.05,4,1
+18-25,Áncash,medio,0.04,7,3
+26-35,Tumbes,bajo,1.54,5,1
+26-35,Arequipa,medio,3.24,7,4
+18-25,Lima,alto,3.44,7,3
+46-60,Cusco,medio,1.6,12,1
+60+,Puno,medio,2.72,5,0
+36-45,Arequipa,bajo,2.98,3,0
+26-35,Cajamarca,medio,2.29,6,1
+26-35,Moquegua,medio,3.13,2,2
+36-45,Cajamarca,medio,3.97,4,4
+36-45,San Martín,bajo,2.8,6,3
+26-35,Áncash,medio,1.94,2,3
+26-35,Tumbes,alto,1.76,7,0
+18-25,Puno,bajo,3.36,6,4
+60+,Áncash,medio,2.1,6,3
+18-25,Lima,alto,2.52,2,2
+26-35,Callao,medio,2.97,4,1
+18-25,Tumbes,alto,1.79,10,2
+36-45,Huánuco,medio,1.14,5,4
+46-60,Lima,bajo,3.59,3,0
+60+,Lima,bajo,1.16,4,1
+46-60,Lima,bajo,2.86,7,4
+18-25,Cusco,medio,3.09,5,3
+36-45,Callao,alto,1.27,7,1
+18-25,Puno,medio,1.73,4,1
+60+,Piura,alto,1.46,5,2
+18-25,Cajamarca,bajo,2.29,6,2
+26-35,Cusco,medio,2.45,6,4
+18-25,Áncash,alto,2.61,4,0
+18-25,Lima,medio,2.52,6,2
+18-25,Ayacucho,bajo,2.4,4,4
+36-45,San Martín,medio,2.73,7,2
+18-25,Junín,medio,3.19,8,3
+60+,Cajamarca,alto,1.74,3,2
+18-25,Cajamarca,medio,1.36,6,1
+60+,Lima,alto,0.69,3,3
+18-25,Ucayali,bajo,3.52,7,1
+18-25,Lima,medio,2.01,5,1
+18-25,Loreto,medio,1.54,3,2
+60+,Ayacucho,medio,4.67,9,0
+26-35,Moquegua,medio,3.31,6,1
+46-60,Cusco,medio,3.81,6,3
+60+,Tacna,alto,2.09,3,2
+36-45,Huánuco,medio,2.83,7,2
+60+,Piura,medio,2.07,7,4
+60+,Lambayeque,medio,2.89,5,4
+18-25,Tacna,alto,2.07,3,1
+60+,Huánuco,medio,4.27,6,1
+60+,Madre de Dios,medio,3.58,4,1
+36-45,Madre de Dios,medio,2.94,5,2
+60+,Loreto,medio,1.67,6,0
+36-45,Lima,medio,2.65,3,1
+18-25,Lima,medio,2.68,6,2
+18-25,Arequipa,bajo,2.4,2,1
+18-25,Arequipa,medio,1.97,5,1
+26-35,Lima,bajo,2.62,5,1
+18-25,Madre de Dios,medio,0.51,6,4
+18-25,Junín,medio,4.34,10,4
+18-25,Lima,bajo,3.35,1,3
+26-35,Piura,alto,2.32,7,0
+60+,Moquegua,medio,0.86,2,1
+36-45,Loreto,medio,1.5,0,3
+36-45,Lima,medio,1.8,2,3
+18-25,Junín,alto,1.8,4,2
+60+,Junín,alto,0.49,2,3
+46-60,Lima,alto,2.88,4,2
+36-45,Arequipa,medio,3.11,7,3
+46-60,Lima,alto,2.52,5,2
+26-35,Arequipa,alto,1.48,6,0
+60+,Pasco,medio,1.21,8,1
+26-35,Huancavelica,medio,2.93,4,3
+36-45,Ayacucho,medio,0.17,7,4
+60+,Tumbes,medio,2.53,2,4
+18-25,Áncash,bajo,1.58,1,0
+46-60,Lambayeque,medio,3.11,6,0
+18-25,Lima,medio,2.31,6,4
+46-60,Lima,medio,1.36,3,0
+26-35,Amazonas,bajo,1.6,4,3
+36-45,Madre de Dios,alto,3.18,6,2
+18-25,Puno,medio,4.26,4,4
+26-35,Junín,bajo,2.31,6,0
+36-45,Callao,medio,2.47,7,1
+36-45,Piura,medio,3.87,3,3
+60+,Ayacucho,medio,3.33,3,2
+18-25,La Libertad,medio,3.4,5,4
+36-45,Ucayali,medio,2.5,4,0
+36-45,Madre de Dios,medio,2.41,5,4
+60+,Áncash,medio,3.31,3,3
+18-25,Cajamarca,medio,3.17,8,0
+36-45,Loreto,medio,1.75,7,0
+46-60,Amazonas,bajo,1.68,3,1
+18-25,Cajamarca,medio,1.4,4,1
+26-35,Ayacucho,alto,2.14,5,4
+46-60,Apurímac,alto,2.54,5,3
+18-25,Lima,bajo,2.22,5,0
+18-25,Lima,alto,4.3,8,3
+60+,Áncash,medio,3.92,1,4
+18-25,Madre de Dios,medio,2.7,5,3
+36-45,Madre de Dios,medio,4.06,4,3
+46-60,Lima,medio,1.68,5,0
+60+,Lima,bajo,1.83,1,4
+26-35,Pasco,bajo,3.17,5,4
+46-60,La Libertad,medio,1.72,5,2
+18-25,Lima,medio,1.53,7,3
+46-60,Callao,medio,1.84,4,3
+36-45,Áncash,bajo,3.52,6,1
+46-60,La Libertad,medio,4.49,2,2
+60+,San Martín,medio,3.59,9,2
+46-60,Tacna,bajo,2.86,3,4
+46-60,Ica,bajo,2.01,5,0
+26-35,Junín,bajo,2.63,6,0
+26-35,Piura,alto,1.84,5,1
+18-25,Ica,medio,2.71,5,4
+18-25,Callao,medio,2.17,3,0
+18-25,Apurímac,medio,3.48,10,2
+26-35,Ucayali,medio,2.44,1,4
+46-60,Ayacucho,bajo,2.52,7,0
+60+,Cajamarca,medio,1.33,5,0
+46-60,Huánuco,medio,2.61,3,4
+26-35,Apurímac,medio,1.92,10,1
+18-25,Lima,medio,0.56,4,4
+60+,Loreto,medio,2.87,3,2
+18-25,Arequipa,alto,2.23,7,4
+60+,Apurímac,bajo,0.43,2,4
+60+,Lambayeque,alto,2.4,4,2
+26-35,Tumbes,medio,1.65,6,4
+46-60,Piura,medio,3.95,3,4
+36-45,Lima,alto,3.95,4,3
+26-35,Huancavelica,bajo,3.58,7,2
+46-60,Áncash,alto,1.38,7,2
+26-35,Lima,medio,3.83,7,1
+18-25,Callao,bajo,2.7,10,1
+60+,Lima,alto,3.32,4,1
+60+,Amazonas,alto,1.76,4,4
+18-25,Lambayeque,medio,3.81,4,1
+18-25,Lima,alto,3.5,5,4
+46-60,Apurímac,medio,3.13,3,1
+36-45,Ucayali,bajo,2.4,3,1
+60+,Loreto,bajo,0.77,5,2
+36-45,Puno,bajo,2.74,3,2
+26-35,Apurímac,medio,1.56,5,0
+46-60,Moquegua,alto,3.35,4,3
+60+,Apurímac,bajo,3.43,3,1
+26-35,Apurímac,medio,1.47,7,2
+60+,Puno,alto,1.73,3,3
+36-45,Lima,bajo,2.62,7,4
+60+,Huancavelica,medio,2.8,5,2
+18-25,Cusco,bajo,2.87,7,1
+46-60,Huánuco,alto,1.31,3,0
+60+,Apurímac,medio,3.08,5,0
+26-35,Pasco,bajo,2.19,7,1
+26-35,Lima,medio,2.62,5,0
+46-60,La Libertad,medio,1.55,6,2
+36-45,Huancavelica,medio,2.3,4,2
+60+,Lambayeque,medio,3.19,2,0
+46-60,Cajamarca,medio,3.17,5,0
+18-25,Moquegua,medio,0.64,4,2
+26-35,Lima,bajo,3.1,4,4
+26-35,Lima,medio,1.8,2,1
+18-25,Lima,medio,2.35,8,2
+60+,Apurímac,alto,3.56,3,0
+46-60,Lima,medio,1.82,6,0
+18-25,Callao,alto,3.13,3,2
+26-35,Lima,bajo,0.0,7,2
+60+,La Libertad,bajo,3.44,6,1
+46-60,Piura,medio,4.7,4,1
+46-60,Lima,alto,2.06,5,1
+46-60,Loreto,medio,3.26,5,1
+26-35,Áncash,bajo,1.45,2,2
+60+,Madre de Dios,medio,1.62,7,4
+26-35,San Martín,medio,2.43,3,1
+36-45,Moquegua,bajo,3.67,4,2
+60+,Apurímac,medio,1.56,8,1
+60+,Áncash,medio,3.76,5,2
+26-35,Callao,alto,2.08,6,0
+60+,Cajamarca,medio,2.06,5,1
+60+,Lima,medio,2.26,1,4
+36-45,Tacna,medio,1.87,3,1
+60+,Tacna,medio,3.99,0,0
+60+,Lima,bajo,3.85,6,0
+36-45,Tacna,medio,4.18,4,4
+60+,Cajamarca,bajo,2.62,11,3
+60+,Tacna,bajo,1.72,2,0
+36-45,La Libertad,medio,2.4,1,0
+46-60,La Libertad,alto,3.5,6,1
+60+,Junín,medio,3.73,1,0
+36-45,Huánuco,medio,1.35,8,1
+36-45,Lima,medio,2.48,5,3
+36-45,Ucayali,alto,2.41,2,3
+26-35,Pasco,medio,0.49,9,2
+60+,La Libertad,medio,0.91,10,4
+46-60,Arequipa,medio,1.95,5,4
+36-45,Amazonas,alto,1.45,7,0
+46-60,Amazonas,medio,2.87,5,3
+60+,Ayacucho,medio,2.5,6,0
+36-45,Ica,bajo,1.65,3,4
+46-60,Lima,medio,3.12,3,4
+60+,Ucayali,bajo,2.39,3,3
+36-45,La Libertad,medio,1.44,11,1
+60+,Lima,medio,1.75,7,1
+46-60,Lima,bajo,2.82,7,2
+18-25,Arequipa,medio,2.24,5,1
+60+,Tumbes,bajo,4.27,9,4
+36-45,Puno,medio,1.38,3,1
+60+,La Libertad,medio,1.49,4,3
+18-25,Puno,medio,1.69,6,0
+18-25,Huánuco,alto,4.3,6,4
+18-25,Moquegua,medio,2.23,3,1
+46-60,Huancavelica,bajo,2.53,8,0
+46-60,Lima,alto,3.25,5,4
+26-35,Arequipa,medio,2.4,4,0
+26-35,Amazonas,bajo,1.59,5,4
+36-45,Huancavelica,bajo,4.27,5,0
+18-25,Lima,medio,3.02,3,0
+18-25,Lambayeque,medio,3.01,5,3
+46-60,San Martín,alto,2.44,7,1
+18-25,Lima,medio,2.07,6,0
+26-35,Cajamarca,medio,2.44,8,3
+46-60,San Martín,bajo,3.16,6,2
+18-25,Puno,medio,2.58,5,0
+60+,Tumbes,medio,1.38,6,4
+46-60,Puno,medio,2.18,5,2
+36-45,La Libertad,alto,2.59,3,1
+36-45,Ucayali,alto,1.88,5,2
+18-25,Apurímac,bajo,2.43,12,1
+46-60,Junín,bajo,2.3,3,1
+26-35,Lima,alto,1.8,3,2
+26-35,Ucayali,medio,3.88,6,0
+60+,Huánuco,medio,2.69,5,4
+26-35,Lima,medio,4.64,5,2
+36-45,Loreto,bajo,2.15,7,2
+36-45,Áncash,medio,3.92,2,3
+60+,Puno,medio,2.47,5,3
+60+,Lima,alto,3.92,7,1
+60+,Áncash,bajo,3.49,6,4
+60+,Lima,medio,3.43,7,2
+26-35,Lima,medio,3.89,1,1
+18-25,Apurímac,medio,1.28,8,2
+18-25,Lima,bajo,2.4,11,4
+18-25,Junín,bajo,3.71,9,2
+26-35,Lima,bajo,3.67,4,4
+26-35,Pasco,medio,2.28,4,4
+18-25,Loreto,medio,3.53,4,0
+46-60,Lima,medio,4.35,6,4
+46-60,Lima,medio,2.89,5,3
+36-45,Apurímac,medio,2.58,4,1
+46-60,San Martín,alto,1.02,6,3
+26-35,Tacna,medio,3.24,3,0
+18-25,Lima,alto,2.41,6,1
+46-60,Lima,medio,3.03,5,2
+60+,Junín,bajo,2.49,7,4
+18-25,Ucayali,bajo,1.72,7,2
+46-60,Moquegua,medio,3.83,5,1
+36-45,La Libertad,medio,3.44,5,1
+60+,La Libertad,medio,2.54,7,1
+26-35,Lima,alto,2.01,5,2
+36-45,Lima,alto,1.48,1,1
+46-60,Lima,medio,1.37,7,2
+46-60,La Libertad,medio,1.83,8,3
+26-35,Lima,bajo,3.86,3,2
+18-25,La Libertad,medio,2.64,4,3
+36-45,Ucayali,medio,3.35,5,1
+36-45,Puno,alto,1.64,7,1
+26-35,Pasco,alto,3.14,5,0
+18-25,Callao,medio,3.01,4,1
+26-35,Loreto,medio,0.82,4,1
+36-45,Ucayali,medio,1.14,2,3
+36-45,Puno,medio,2.8,3,3
+26-35,Madre de Dios,alto,1.77,5,1
+36-45,Ucayali,medio,2.01,9,2
+36-45,Lima,bajo,2.34,6,2
+18-25,Callao,medio,3.83,2,1
+36-45,Ayacucho,bajo,2.54,9,2
+36-45,Lima,medio,2.81,4,1
+36-45,Lima,medio,4.05,6,0
+26-35,Moquegua,bajo,1.63,7,4
+60+,Apurímac,medio,3.79,6,1
+46-60,Huancavelica,alto,2.89,7,2
+60+,Lima,alto,2.54,3,1
+46-60,Huánuco,medio,4.14,6,4
+46-60,Loreto,alto,4.15,5,1
+26-35,Puno,medio,1.94,8,3
+60+,Arequipa,medio,3.43,6,2
+26-35,Junín,medio,0.62,4,0
+36-45,La Libertad,bajo,1.83,3,3
+60+,La Libertad,alto,2.38,5,0
+18-25,Callao,medio,3.85,7,3
+36-45,Moquegua,medio,3.38,7,3
+46-60,Junín,medio,2.32,2,4
+36-45,Lima,medio,2.35,3,4
+60+,Huancavelica,alto,2.68,4,4
+60+,Huancavelica,medio,3.26,3,3
+18-25,Arequipa,bajo,1.65,1,3
+46-60,Moquegua,medio,1.41,4,3
+18-25,Áncash,alto,1.86,4,4
+60+,Ica,bajo,2.45,11,2
+60+,Amazonas,bajo,2.37,6,3
+36-45,Ica,bajo,1.84,4,3
+36-45,Ucayali,alto,2.77,3,3
+18-25,San Martín,medio,0.93,7,1
+46-60,Cusco,medio,2.22,8,1
+26-35,San Martín,bajo,3.2,6,2
+26-35,Huánuco,medio,3.43,7,1
+36-45,Cusco,medio,3.37,6,2
+60+,Arequipa,bajo,2.69,9,3
+26-35,Ayacucho,medio,2.11,11,2
+26-35,Cajamarca,medio,2.53,1,2
+18-25,Callao,bajo,4.1,7,2
+60+,Apurímac,alto,2.01,7,0
+26-35,Ucayali,medio,4.41,4,3
+26-35,Lima,medio,1.81,2,3
+46-60,Lima,bajo,1.55,5,3
+36-45,Lima,medio,2.21,3,3
+46-60,San Martín,medio,3.43,2,3
+36-45,Callao,medio,3.2,2,3
+60+,Callao,bajo,3.93,4,3
+26-35,Huánuco,medio,4.01,7,4
+36-45,Lima,alto,1.86,5,2
+60+,Ucayali,medio,2.57,4,1
+18-25,Puno,medio,2.74,2,2
+60+,Apurímac,bajo,1.57,3,1
+46-60,Lima,bajo,1.84,4,1
+18-25,Piura,medio,2.64,2,1
+60+,Lambayeque,alto,1.98,4,2
+46-60,Cajamarca,bajo,2.6,7,2
+46-60,Tumbes,bajo,2.64,6,4
+36-45,Lima,medio,2.44,5,2
+26-35,Moquegua,bajo,0.36,5,4
+46-60,Moquegua,medio,2.43,3,2
+18-25,Lima,bajo,3.25,4,4
+36-45,San Martín,bajo,3.87,3,1
+26-35,Lambayeque,bajo,0.39,4,3
+60+,Amazonas,medio,1.09,9,3
+46-60,Lima,medio,3.11,2,4
+46-60,San Martín,bajo,2.32,6,1
+60+,Amazonas,medio,1.85,5,4
+18-25,Lambayeque,medio,1.92,5,1
+60+,Lambayeque,bajo,2.7,8,1
+26-35,Lima,medio,2.57,6,4
+18-25,Ica,medio,0.66,7,0
+26-35,Apurímac,alto,2.25,5,0
+18-25,Moquegua,bajo,2.13,6,2
+36-45,Lima,bajo,3.97,4,0
+36-45,Amazonas,medio,1.0,1,4
+26-35,Loreto,alto,4.19,7,1
+60+,Callao,alto,1.76,4,4
+26-35,Junín,alto,3.95,4,3
+36-45,Lambayeque,bajo,1.59,5,4
+36-45,Loreto,medio,2.9,5,1
+18-25,Cusco,medio,2.94,4,2
+60+,Arequipa,medio,2.08,2,4
+36-45,Tumbes,medio,3.23,3,2
+26-35,Cajamarca,medio,0.77,4,2
+46-60,Lima,alto,2.47,6,2
+18-25,Lima,medio,2.81,2,3
+60+,Lima,bajo,2.27,4,4
+46-60,Lima,medio,1.85,1,3
+36-45,La Libertad,medio,2.99,10,1
+36-45,Lambayeque,medio,1.87,5,4
+26-35,Lima,alto,4.02,3,1
+18-25,Callao,medio,1.35,5,0
+46-60,Cajamarca,medio,1.26,4,0
+46-60,Junín,medio,3.55,5,0
+46-60,Ayacucho,bajo,2.69,4,1
+18-25,Loreto,bajo,3.97,3,1
+18-25,Lima,alto,2.83,4,2
+46-60,Madre de Dios,bajo,1.18,5,1
+26-35,La Libertad,medio,3.43,4,1
+46-60,Cusco,alto,2.51,4,0
+46-60,Pasco,medio,3.5,5,2
+26-35,Cajamarca,medio,1.77,6,3
+60+,Callao,medio,1.46,2,3
+18-25,Lima,bajo,2.87,6,3
+18-25,Piura,bajo,1.55,6,0
+60+,Lima,medio,2.97,4,1
+18-25,Huancavelica,medio,2.91,7,3
+18-25,San Martín,medio,3.34,4,1
+46-60,Lambayeque,medio,2.01,11,4
+26-35,Lima,bajo,2.52,2,3
+26-35,Callao,medio,2.64,5,2
+18-25,San Martín,bajo,3.41,4,2
+36-45,Huancavelica,bajo,2.1,8,0
+60+,Ucayali,bajo,3.08,8,2
+46-60,Ica,medio,1.75,3,4
+36-45,Lima,bajo,1.92,5,0
+18-25,Tacna,medio,2.11,4,0
+60+,Huánuco,medio,0.7,6,0
+46-60,Tumbes,medio,4.24,4,3
+26-35,La Libertad,bajo,2.47,7,4
+36-45,San Martín,medio,2.47,3,4
+36-45,Cajamarca,medio,1.96,7,0
+46-60,La Libertad,bajo,2.21,3,2
+46-60,Callao,alto,3.37,3,1
+36-45,Tacna,bajo,2.88,7,2
+46-60,Amazonas,medio,0.89,6,0
+18-25,San Martín,medio,0.91,8,2
+36-45,Junín,medio,1.53,4,3
+36-45,Áncash,alto,3.76,4,4
+26-35,Apurímac,medio,2.71,2,2
+26-35,Tacna,medio,4.17,3,3
+60+,Tumbes,bajo,1.49,6,2
+36-45,Junín,bajo,0.45,3,4
+18-25,Lambayeque,medio,2.16,2,0
+46-60,Madre de Dios,medio,2.09,6,3
+46-60,Loreto,medio,3.07,1,2
+60+,Áncash,bajo,3.28,8,3
+60+,Callao,medio,1.21,7,3
+60+,Moquegua,bajo,1.14,6,4
+18-25,Ucayali,alto,1.81,3,2
+36-45,Ucayali,medio,0.79,5,3
+36-45,Lima,bajo,2.63,4,4
+18-25,Loreto,medio,2.98,4,2
+36-45,Callao,bajo,2.55,4,4
+60+,Pasco,medio,0.51,5,0
+26-35,Lima,medio,0.87,6,2
+36-45,Huánuco,bajo,2.97,8,3
+46-60,Lambayeque,alto,0.91,6,2
+18-25,Arequipa,medio,1.56,3,3
+18-25,Lima,alto,3.54,9,1
+46-60,Ayacucho,medio,4.27,1,3
+18-25,Ica,medio,3.38,5,2
+18-25,La Libertad,medio,1.25,6,2
+26-35,Lima,medio,2.24,4,0
+60+,Tumbes,medio,1.24,7,1
+36-45,Áncash,alto,1.97,7,4
+18-25,Lima,medio,1.12,2,3
+60+,Lambayeque,bajo,3.54,10,3
+26-35,La Libertad,alto,4.77,5,4
+46-60,Moquegua,medio,2.17,3,3
+26-35,Arequipa,bajo,2.84,5,2
+46-60,Piura,medio,3.72,8,3
+26-35,Puno,alto,3.38,1,4
+26-35,Pasco,bajo,1.79,2,0
+46-60,Lima,medio,2.31,2,0
+46-60,Puno,bajo,2.75,9,3
+46-60,Lima,bajo,3.65,3,1
+46-60,Lima,medio,2.26,1,2
+60+,Ica,medio,2.7,2,4
+26-35,Arequipa,medio,2.37,5,1
+18-25,San Martín,bajo,3.02,7,0
+18-25,Áncash,alto,2.76,5,0
+46-60,Ucayali,medio,3.07,5,3
+46-60,Madre de Dios,medio,2.76,6,0
+18-25,Ayacucho,bajo,4.17,5,4
+60+,Huancavelica,bajo,2.09,1,0
+18-25,Ucayali,bajo,3.99,2,1
+26-35,Lima,bajo,3.22,7,2
+60+,Huancavelica,bajo,2.98,7,1
+60+,Lima,bajo,1.86,4,1
+36-45,Lima,bajo,4.18,7,3
+18-25,Piura,bajo,1.62,2,3
+46-60,Lima,medio,3.61,4,4
+18-25,Lima,alto,2.61,5,4
+60+,Moquegua,bajo,1.56,2,4
+46-60,Cajamarca,medio,2.96,4,2
+60+,Lima,medio,2.58,9,0
+46-60,Arequipa,medio,2.03,3,2
+18-25,Lima,medio,1.42,3,4
+46-60,Lima,medio,2.48,9,2
+26-35,Arequipa,medio,0.91,7,1
+46-60,Lima,medio,3.72,5,0
+18-25,Apurímac,alto,4.39,2,0
+60+,Pasco,medio,1.08,9,2
+46-60,Apurímac,bajo,2.92,2,2
+18-25,Tumbes,alto,2.66,3,2
+26-35,Lima,medio,2.88,6,4
+26-35,Madre de Dios,bajo,2.71,2,4
+26-35,Lima,bajo,3.36,2,1
+46-60,Lima,alto,1.67,2,3
+36-45,Lima,medio,0.6,5,0
+60+,San Martín,medio,1.36,2,4
+60+,Lima,medio,1.91,10,2
+18-25,Lima,bajo,0.18,3,2
+46-60,La Libertad,medio,1.59,3,3
+36-45,Arequipa,alto,0.51,6,3
+26-35,San Martín,alto,3.4,6,3
+60+,Loreto,medio,1.67,2,2
+26-35,Lima,medio,4.78,3,1
+26-35,Puno,bajo,1.94,3,1
+36-45,Huánuco,bajo,1.26,7,0
+26-35,San Martín,medio,2.08,6,2
+36-45,Lima,alto,2.41,5,1
+60+,Ayacucho,medio,2.78,2,3
+60+,Lima,medio,1.72,6,4
+60+,Lambayeque,alto,1.5,4,0
+26-35,Lima,bajo,2.14,8,1
+18-25,Lima,medio,3.53,8,4
+60+,Lima,medio,4.07,6,1
+36-45,Huancavelica,medio,3.8,7,4
+36-45,Tacna,bajo,3.25,4,3
+60+,Lima,medio,4.21,2,1
+46-60,Loreto,bajo,2.06,5,1
+36-45,Lima,bajo,3.91,5,0
+18-25,Lima,medio,4.71,6,1
+60+,Arequipa,bajo,5.68,7,4
+36-45,Puno,medio,3.66,4,2
+26-35,Lima,bajo,2.78,6,4
+18-25,Amazonas,alto,2.61,8,3
+18-25,Apurímac,medio,1.87,4,0
+36-45,Lambayeque,medio,3.52,3,4
+36-45,Huánuco,medio,0.88,4,3
+18-25,Piura,alto,1.5,8,4
+26-35,Lima,alto,1.19,2,4
+60+,Pasco,medio,1.88,2,3
+46-60,Lambayeque,bajo,2.18,7,1
+26-35,Lima,medio,2.85,2,0
+26-35,Huánuco,alto,3.75,4,1
+18-25,Lima,bajo,1.49,3,1
+26-35,Tacna,alto,3.3,4,1
+60+,Moquegua,bajo,1.51,9,4
+36-45,Huancavelica,medio,2.27,4,3
+26-35,Lima,alto,3.24,8,1
+46-60,Ucayali,bajo,3.23,1,3
+36-45,Cusco,medio,3.87,5,1
+60+,Lima,medio,2.91,6,0
+60+,Tacna,bajo,2.23,7,4
+46-60,Lima,medio,3.21,5,1
+46-60,Lima,alto,1.72,6,3
+60+,Amazonas,bajo,1.53,6,0
+46-60,Huánuco,alto,1.14,6,2
+18-25,Lima,medio,2.75,3,0
+36-45,Ucayali,alto,0.66,7,0
+46-60,Lima,medio,3.75,4,4
+60+,Tumbes,medio,4.2,3,0
+26-35,Ucayali,bajo,2.11,4,4
+18-25,Ica,alto,2.34,2,3
+26-35,Lima,alto,2.87,2,2
+26-35,La Libertad,medio,3.14,5,0
+36-45,Ayacucho,medio,1.85,4,4
+26-35,Apurímac,medio,3.74,8,3
+36-45,Piura,medio,2.25,6,0
+46-60,Huancavelica,bajo,3.3,5,4
+46-60,Lima,bajo,4.24,6,4
+18-25,Lima,medio,2.31,5,1
+26-35,Madre de Dios,bajo,1.64,2,2
+36-45,Pasco,medio,2.21,8,1
+18-25,Lima,medio,0.74,7,3
+26-35,Ica,medio,2.14,6,4
+36-45,Piura,bajo,1.52,6,0
+46-60,Lima,alto,3.09,6,4
+26-35,Pasco,medio,1.4,8,4
+26-35,Lima,medio,3.05,9,2
+18-25,Huánuco,medio,2.45,5,2
+60+,Callao,bajo,2.55,7,4
+26-35,Lima,medio,2.98,2,3
+46-60,Amazonas,medio,3.08,3,3
+26-35,Ucayali,medio,0.49,3,2
+46-60,La Libertad,bajo,1.84,2,3
+60+,San Martín,alto,2.7,4,1
+60+,Lima,medio,0.83,6,4
+26-35,La Libertad,alto,3.12,4,4
+36-45,Arequipa,bajo,3.58,5,4
+26-35,Amazonas,alto,3.49,6,2
+26-35,Junín,medio,2.52,3,1
+36-45,La Libertad,alto,3.12,8,0
+36-45,Tacna,alto,3.04,6,0
+36-45,Lambayeque,bajo,2.32,7,1
+18-25,Loreto,bajo,2.66,3,2
+46-60,Ayacucho,medio,1.35,1,2
+46-60,Lima,alto,2.8,8,3
+60+,Cajamarca,bajo,1.52,4,0
+26-35,Callao,medio,1.59,3,3
+46-60,Cajamarca,medio,1.8,6,1
+18-25,Apurímac,alto,1.41,5,1
+60+,Lima,alto,1.36,7,1
+60+,Puno,bajo,1.95,5,3
+46-60,Ayacucho,medio,2.27,4,4
+26-35,Junín,medio,3.12,4,2
+26-35,Piura,medio,3.31,5,0
+36-45,Lima,bajo,1.89,6,4
+18-25,Arequipa,medio,1.67,5,1
+46-60,Ayacucho,bajo,2.32,4,2
+46-60,Ucayali,bajo,4.17,6,4
+60+,Piura,alto,0.94,1,2
+60+,Huánuco,alto,3.77,7,4
+60+,Puno,medio,3.01,7,1
+46-60,Apurímac,medio,2.2,4,1
+46-60,Loreto,medio,2.58,10,1
+60+,Tumbes,medio,3.26,5,0
+36-45,Lima,medio,3.92,3,4
+60+,San Martín,bajo,1.76,1,1
+26-35,Tacna,medio,1.95,2,4
+26-35,Callao,alto,2.15,6,2
+46-60,Lima,medio,1.91,6,2
+26-35,Junín,medio,3.16,7,3
+26-35,Cusco,alto,2.65,4,1
+18-25,La Libertad,alto,3.59,1,1
+26-35,Loreto,medio,1.29,4,4
+36-45,Madre de Dios,bajo,2.78,10,3
+60+,Apurímac,medio,2.2,4,3
+18-25,Amazonas,bajo,1.53,3,4
+46-60,Ica,medio,3.44,7,2
+36-45,Lima,bajo,3.44,3,1
+18-25,Lima,bajo,2.5,5,0
+26-35,Lima,bajo,2.23,5,3
+26-35,Huánuco,medio,2.29,4,3
+36-45,Cusco,bajo,3.3,5,2
+18-25,Lima,medio,1.59,11,3
+26-35,Apurímac,medio,2.43,3,3
+46-60,Ica,alto,2.45,7,2
+60+,Pasco,alto,3.4,4,4
+18-25,Loreto,medio,2.13,6,4
+18-25,Cusco,medio,2.24,4,3
+36-45,Cusco,medio,1.44,8,0
+46-60,Ica,bajo,1.46,5,0
+60+,Apurímac,medio,3.59,6,3
+46-60,Huancavelica,medio,1.83,7,4
+26-35,Áncash,bajo,3.11,8,0
+26-35,Lima,alto,1.86,1,4
+36-45,Ica,medio,2.79,2,0
+26-35,Lima,medio,2.96,2,2
+60+,Áncash,medio,3.88,5,4
+36-45,Loreto,bajo,3.58,5,1
+36-45,Amazonas,bajo,3.86,4,2
+60+,Arequipa,alto,4.05,3,0
+18-25,Arequipa,bajo,2.33,1,3
+46-60,Lima,medio,2.89,3,0
+60+,Loreto,alto,3.42,7,3
+46-60,Amazonas,bajo,1.81,7,0
+26-35,San Martín,alto,3.94,7,1
+46-60,Pasco,bajo,2.78,8,1
+46-60,Arequipa,bajo,1.46,6,3
+26-35,Ayacucho,medio,1.35,6,0
+26-35,Huánuco,medio,2.14,8,2
+46-60,Lima,medio,2.03,2,2
+46-60,Lima,bajo,1.03,7,3
+46-60,Madre de Dios,alto,1.65,3,1
+18-25,Ayacucho,medio,2.42,12,4
+46-60,Ucayali,bajo,2.8,1,0
+36-45,Tumbes,bajo,2.8,6,1
+46-60,Apurímac,bajo,1.48,3,2
+46-60,Madre de Dios,medio,2.17,5,2
+36-45,Huancavelica,bajo,2.62,4,0
+26-35,Lambayeque,bajo,2.31,5,2
+46-60,Ucayali,bajo,1.74,4,0
+26-35,Amazonas,alto,3.07,7,0
+26-35,Junín,bajo,2.81,7,3
+26-35,Piura,medio,3.1,5,3
+18-25,Junín,bajo,3.51,6,0
+60+,Loreto,medio,1.31,3,2
+60+,Puno,medio,1.82,5,3
+46-60,San Martín,bajo,2.34,3,1
+36-45,Lima,medio,1.84,7,2
+60+,Lima,medio,2.18,4,3
+26-35,Ucayali,bajo,2.37,6,1
+26-35,Ucayali,medio,3.38,3,4
+36-45,Cajamarca,medio,3.25,7,2
+36-45,Apurímac,medio,2.81,0,2
+26-35,Ica,medio,3.23,3,3
+18-25,Ucayali,medio,2.31,6,3
+60+,Huancavelica,alto,2.99,3,1
+18-25,Lima,alto,2.33,4,3
+60+,Ica,medio,2.43,9,2
+36-45,Lima,alto,2.54,3,4
+46-60,Huancavelica,alto,2.97,5,2
+60+,Huancavelica,bajo,1.96,1,1
+26-35,San Martín,medio,3.21,7,2
+26-35,Tacna,medio,2.02,3,1
+36-45,Loreto,bajo,2.19,2,2
+60+,Amazonas,medio,1.73,4,4
+26-35,Amazonas,medio,0.46,6,1
+36-45,Loreto,medio,2.18,4,2
+60+,Lima,alto,3.57,7,0
+18-25,Cajamarca,alto,3.78,7,4
+60+,Madre de Dios,bajo,1.95,2,0
+18-25,Ucayali,bajo,2.25,1,1
+18-25,Ica,bajo,2.46,2,1
+26-35,Callao,alto,2.48,2,0
+18-25,Áncash,bajo,2.8,5,0
+36-45,Áncash,medio,0.76,6,2
+26-35,Apurímac,medio,3.69,4,3
+26-35,Callao,bajo,3.21,6,1
+60+,Ayacucho,medio,0.68,3,4
+46-60,Lima,bajo,3.23,7,2
+46-60,Puno,bajo,2.98,6,0
+60+,Tumbes,bajo,1.25,11,2
+46-60,Amazonas,alto,0.6,4,2
+18-25,Ucayali,alto,1.96,3,2
+36-45,Lima,bajo,2.79,6,1
+60+,Apurímac,medio,3.38,1,3
+18-25,Cusco,bajo,3.55,5,3
+36-45,Tacna,medio,1.96,3,0
+26-35,Madre de Dios,medio,1.9,9,1
+26-35,Tacna,medio,2.43,4,3
+46-60,Áncash,medio,2.18,8,3
+46-60,Lima,medio,3.49,1,3
+36-45,Ayacucho,medio,3.99,8,0
+26-35,Ayacucho,medio,2.71,6,2
+60+,Ica,alto,0.85,4,1
+36-45,Lima,medio,1.99,6,4
+18-25,Lima,bajo,3.12,3,3
+36-45,La Libertad,medio,3.1,4,1
+36-45,Lima,medio,2.54,4,3
+60+,Lima,bajo,2.96,4,0
+36-45,Junín,medio,2.38,5,1
+36-45,Arequipa,bajo,3.41,5,3
+36-45,Lima,bajo,2.06,6,3
+46-60,Lima,medio,3.54,3,0
+60+,Junín,medio,2.47,6,0
+36-45,Callao,bajo,3.53,9,0
+60+,Lima,alto,2.94,2,3
+36-45,Lima,bajo,1.93,5,4
+18-25,Lima,medio,4.44,8,3
+18-25,Callao,bajo,2.06,8,2
+36-45,Áncash,alto,1.89,6,1
+26-35,Apurímac,medio,1.0,7,4
+18-25,Ayacucho,medio,2.6,7,4
+46-60,Lima,medio,1.4,2,4
+46-60,Lima,medio,3.61,8,4
+46-60,Tacna,medio,0.83,6,4
+36-45,Lima,medio,2.45,3,4
+46-60,Amazonas,medio,2.3,4,0
+46-60,Tumbes,bajo,1.87,5,3
+26-35,San Martín,medio,0.43,5,3
+60+,Cajamarca,medio,1.69,2,3
+46-60,Lambayeque,alto,3.53,8,4
+60+,Moquegua,bajo,2.7,6,2
+36-45,La Libertad,bajo,2.37,3,0
+26-35,Lima,bajo,2.79,11,0
+46-60,Lima,bajo,0.52,3,0
+18-25,Tacna,medio,1.86,5,1
+46-60,Cajamarca,bajo,2.39,11,1
+36-45,La Libertad,medio,2.82,3,3
+60+,Puno,medio,1.91,5,3
+18-25,Puno,bajo,2.97,2,1
+26-35,Tumbes,bajo,3.0,9,3
+60+,Ayacucho,medio,2.59,4,3
+26-35,Cusco,medio,1.68,4,3
+46-60,Loreto,bajo,5.23,3,3
+18-25,Lima,alto,1.37,9,1
+46-60,Lima,medio,1.88,7,2
+18-25,Lima,medio,4.07,2,1
+18-25,Apurímac,medio,3.33,5,4
+36-45,Junín,medio,1.33,6,4
+36-45,Arequipa,alto,0.08,9,2
+26-35,Lima,medio,1.39,6,2
+36-45,Loreto,bajo,0.0,7,1
+60+,Moquegua,medio,1.14,5,2
+60+,Cajamarca,alto,3.82,3,2
+46-60,Tacna,medio,1.51,4,0
+36-45,Lima,medio,1.77,8,1
+26-35,Lima,medio,2.47,5,1
+46-60,Moquegua,alto,1.71,7,3
+46-60,Huancavelica,bajo,2.57,3,1
+46-60,Lima,medio,2.55,3,1
+60+,Callao,bajo,3.93,5,4
+26-35,Áncash,bajo,3.48,5,2
+60+,Lima,medio,2.73,5,1
+18-25,Cajamarca,medio,3.69,4,4
+60+,Lima,alto,2.79,3,3
+36-45,Junín,medio,3.44,4,0
+36-45,Apurímac,medio,2.84,8,3
+60+,Lima,bajo,1.87,2,2
+46-60,La Libertad,bajo,4.11,9,1
+46-60,Cajamarca,bajo,4.19,5,2
+26-35,Huánuco,medio,3.44,3,3
+36-45,Arequipa,medio,0.7,6,4
+26-35,Lima,bajo,2.23,5,1
+60+,Ucayali,medio,4.74,4,0
+36-45,Ayacucho,bajo,4.29,4,3
+26-35,Ayacucho,alto,3.56,6,0
+46-60,Huánuco,bajo,1.22,8,3
+36-45,Lima,medio,3.22,8,3
+18-25,Moquegua,medio,3.15,0,4
+46-60,Tacna,medio,1.58,2,0
+18-25,Lambayeque,medio,1.61,1,4
+36-45,Pasco,bajo,2.52,7,1
+18-25,Lima,medio,2.05,4,4
+26-35,Lima,alto,3.1,6,2
+18-25,Huánuco,alto,5.36,6,3
+46-60,Cajamarca,medio,4.27,4,3
+18-25,Cusco,medio,4.2,6,4
+46-60,Piura,medio,3.52,4,0
+18-25,Cajamarca,alto,2.63,4,0
+18-25,Huánuco,bajo,4.29,5,2
+60+,Lima,medio,1.8,4,3
+60+,Junín,medio,2.78,3,0
+26-35,Lima,alto,3.53,5,2
+26-35,Huánuco,medio,2.53,4,4
+46-60,Lima,medio,2.46,6,1
+46-60,Tumbes,alto,2.1,7,3
+26-35,Lima,medio,2.56,6,4
+18-25,La Libertad,medio,3.11,8,1
+46-60,Lima,medio,1.97,5,1
+18-25,Puno,medio,3.62,5,1
+60+,Amazonas,bajo,1.18,4,0
+46-60,Lima,medio,1.87,8,2
+18-25,Áncash,medio,2.28,5,4
+60+,Callao,bajo,2.88,8,3
+36-45,La Libertad,medio,3.29,7,2
+46-60,Lima,medio,3.01,3,2
+26-35,Arequipa,medio,1.8,4,4
+60+,Apurímac,bajo,3.63,4,4
+36-45,Lambayeque,bajo,4.6,3,1
+18-25,Callao,bajo,2.27,1,3
+26-35,Ucayali,bajo,3.68,3,4
+46-60,Tacna,medio,1.19,3,3
+26-35,Lima,alto,1.52,5,4
+26-35,Cajamarca,medio,1.53,3,0
+60+,Madre de Dios,medio,2.91,3,0
+36-45,Cusco,medio,4.18,4,3
+46-60,Lima,medio,2.62,9,2
+26-35,Junín,alto,3.56,6,2
+26-35,Piura,medio,3.75,9,3
+46-60,Loreto,bajo,2.1,3,3
+36-45,Ucayali,medio,3.11,1,4
+36-45,Madre de Dios,alto,2.35,3,1
+26-35,Ayacucho,medio,3.26,2,4
+26-35,Áncash,medio,2.92,6,1
+36-45,Ica,medio,2.78,5,0
+26-35,Lima,alto,1.11,3,3
+36-45,Amazonas,bajo,2.32,5,0
+26-35,Lima,medio,2.28,5,1
+26-35,Lima,medio,2.28,2,4
+60+,Lima,medio,2.6,4,2
+18-25,Lambayeque,alto,3.41,2,2
+46-60,Piura,medio,0.54,6,1
+60+,Ayacucho,medio,2.6,2,3
+18-25,Ayacucho,alto,2.31,6,3
+18-25,Lima,alto,5.29,4,0
+36-45,Lima,bajo,0.89,8,1
+46-60,Puno,bajo,1.8,6,1
+18-25,Callao,bajo,1.55,4,2
+26-35,Moquegua,medio,1.55,6,3
+60+,Apurímac,alto,0.88,2,1
+46-60,Ucayali,alto,2.92,4,0
+18-25,Callao,bajo,3.1,8,0
+18-25,Lima,bajo,1.42,5,3
+46-60,Puno,medio,3.03,6,3
+36-45,San Martín,bajo,2.98,2,1
+26-35,Junín,bajo,3.93,8,2
+60+,Madre de Dios,medio,2.41,2,0
+60+,Lima,medio,2.97,5,3
+18-25,Tacna,medio,1.67,4,1
+36-45,Amazonas,medio,2.86,7,1
+26-35,La Libertad,bajo,0.74,4,0
+26-35,Puno,alto,3.79,4,4
+18-25,Lima,bajo,2.7,9,2
+18-25,Madre de Dios,alto,4.32,5,1
+18-25,Piura,alto,2.63,4,0
+36-45,Junín,medio,3.31,6,1
+46-60,Lima,medio,2.51,6,0
+18-25,Lima,bajo,4.4,6,3
+26-35,Tacna,medio,1.61,4,3
+60+,Loreto,bajo,0.92,3,3
+46-60,Tacna,medio,0.53,4,3
+26-35,Lima,medio,3.73,6,2
+60+,Lima,bajo,1.42,4,2
+60+,Callao,medio,3.4,9,3
+18-25,Loreto,medio,3.18,4,0
+46-60,Arequipa,medio,3.0,3,2
+18-25,Loreto,alto,3.34,1,2
+60+,Cusco,medio,3.17,7,2
+60+,Apurímac,medio,3.94,6,2
+36-45,Callao,alto,2.56,6,2
+60+,Lima,medio,1.89,3,0
+36-45,Pasco,medio,2.3,1,3
+36-45,Apurímac,bajo,2.78,4,2
+46-60,Lima,bajo,2.54,4,2
+26-35,Apurímac,medio,2.64,2,3
+18-25,Loreto,alto,1.59,6,3
+60+,Ica,bajo,2.73,5,4
+36-45,Apurímac,bajo,2.56,6,3
+36-45,Lima,medio,2.3,6,3
+46-60,Pasco,alto,2.78,4,1
+60+,Tacna,medio,3.58,4,4
+36-45,Pasco,bajo,1.06,4,2
+26-35,Lima,alto,3.35,3,3
+36-45,Puno,medio,3.99,1,1
+46-60,Moquegua,medio,0.0,5,1
+18-25,Junín,medio,1.71,4,3
+26-35,Lima,alto,1.8,4,3
+26-35,Lima,medio,3.85,4,1
+46-60,Huancavelica,bajo,2.38,9,2
+18-25,Ucayali,alto,2.22,3,3
+36-45,Lima,medio,2.33,5,0
+36-45,Lima,medio,1.81,5,3
+60+,Áncash,alto,3.9,8,2
+18-25,Huánuco,alto,1.67,6,1
+36-45,La Libertad,medio,2.21,2,4
+46-60,Apurímac,medio,3.76,6,4
+36-45,Ucayali,bajo,2.66,4,0
+18-25,Moquegua,bajo,2.09,6,4
+46-60,Apurímac,bajo,2.93,6,1
+18-25,Junín,bajo,4.34,2,0
+36-45,Pasco,medio,3.71,2,3
+18-25,Apurímac,bajo,2.45,5,0
+46-60,Lima,medio,3.26,5,2
+60+,Moquegua,bajo,3.26,2,1
+36-45,Pasco,medio,2.12,5,4
+46-60,Callao,medio,2.68,5,3
+60+,Huánuco,medio,3.01,2,3
+26-35,Lima,alto,2.16,4,3
+60+,Lambayeque,bajo,3.13,5,2
+26-35,Madre de Dios,bajo,1.18,7,1
+18-25,Cusco,medio,2.25,9,3
+26-35,Moquegua,medio,1.0,4,4
+18-25,Ucayali,bajo,1.97,9,3
+36-45,Áncash,bajo,3.28,9,1
+36-45,Arequipa,medio,1.66,6,0
+36-45,Amazonas,medio,4.21,9,1
+26-35,Lambayeque,alto,3.59,4,0
+18-25,Loreto,alto,2.53,6,3
+46-60,Ica,medio,2.81,3,1
+18-25,Lima,bajo,3.78,5,0
+26-35,Loreto,medio,2.6,7,2
+26-35,Piura,alto,2.34,4,1
+60+,Madre de Dios,medio,1.35,3,2
+60+,Lima,alto,2.66,6,1
+18-25,Lima,medio,1.58,3,2
+46-60,Loreto,medio,2.65,5,3
+26-35,Lima,bajo,3.16,6,0
+46-60,Áncash,bajo,4.02,5,3
+18-25,Madre de Dios,alto,0.31,2,2
+60+,Piura,medio,2.33,6,1
+18-25,Madre de Dios,alto,3.07,8,3
+60+,Lima,bajo,2.24,7,4
+18-25,Amazonas,medio,2.04,3,4
+26-35,Tumbes,medio,2.67,7,4
+36-45,Lima,alto,2.1,9,4
+36-45,Lima,bajo,2.38,4,4
+26-35,Tacna,alto,2.58,6,4
+26-35,Lima,alto,1.16,6,0
+60+,Lima,medio,3.58,3,3
+46-60,Moquegua,medio,3.12,11,2
+36-45,Tacna,medio,0.76,3,4
+26-35,Cusco,medio,1.51,7,0
+36-45,Lima,medio,4.25,7,4
+46-60,Ucayali,medio,1.49,4,4
+46-60,Piura,medio,2.88,2,3
+36-45,Junín,alto,2.33,9,1
+36-45,Cusco,medio,4.05,4,3
+26-35,Madre de Dios,medio,4.05,4,3
+26-35,Áncash,medio,2.67,1,2
+46-60,Lima,medio,2.21,3,4
+18-25,Junín,alto,3.07,8,3
+18-25,Pasco,medio,2.29,3,0
+36-45,Lambayeque,medio,1.59,7,4
+60+,Lima,alto,2.68,3,2
+26-35,Huánuco,medio,1.96,0,4
+60+,Amazonas,alto,3.43,3,0
+36-45,Cusco,medio,3.0,8,3
+26-35,Tumbes,bajo,2.56,2,4
+46-60,Arequipa,medio,1.84,4,3
+18-25,Amazonas,bajo,2.4,5,1
+18-25,Lima,bajo,1.34,2,3
+46-60,Junín,alto,2.09,3,2
+46-60,Lima,medio,3.57,7,4
+60+,Madre de Dios,medio,0.88,8,0
+46-60,Lima,bajo,3.72,3,4
+60+,Lima,medio,2.76,5,3
+60+,Lima,medio,2.79,7,1
+18-25,La Libertad,medio,3.34,3,1
+36-45,Lima,medio,2.48,9,4
+46-60,La Libertad,medio,2.96,2,0
+36-45,Apurímac,alto,0.69,5,0
+46-60,Junín,medio,3.9,6,4
+36-45,Arequipa,medio,4.59,2,1
+26-35,Lima,alto,3.11,4,1
+36-45,Ucayali,bajo,2.15,5,4
+18-25,Callao,alto,2.45,6,4
+26-35,Junín,bajo,2.05,7,4
+36-45,Lima,bajo,2.7,4,0
+36-45,Cajamarca,medio,2.76,5,3
+26-35,Puno,bajo,2.41,4,3
+36-45,Amazonas,medio,1.91,3,1
+26-35,Lima,alto,3.07,9,1
+18-25,Arequipa,bajo,1.8,3,3
+26-35,Tacna,alto,2.83,4,3
+46-60,Lima,bajo,2.15,3,4
+46-60,Lima,bajo,3.89,6,4
+60+,San Martín,alto,1.8,3,1
+46-60,Lima,medio,1.61,4,2
+46-60,Arequipa,medio,1.37,6,1
+46-60,Lima,medio,0.08,1,1
+26-35,Arequipa,medio,3.05,3,2
+26-35,Ica,bajo,3.3,7,4
+60+,Áncash,medio,2.93,3,4
+36-45,Madre de Dios,alto,3.8,5,4
+36-45,Ica,bajo,2.63,3,3
+46-60,Huánuco,medio,1.03,7,3
+60+,Lima,alto,3.71,8,0
+18-25,Junín,medio,2.05,3,0
+36-45,Pasco,medio,3.19,7,3
+36-45,Cusco,bajo,2.08,5,0
+36-45,Lima,medio,2.85,6,4
+26-35,Pasco,medio,2.63,4,3
+18-25,Lima,bajo,0.43,6,3
+18-25,Huancavelica,medio,4.37,5,2
+60+,Puno,medio,2.46,3,2
+60+,San Martín,medio,1.14,2,4
+36-45,La Libertad,bajo,3.76,11,4
+36-45,Puno,medio,3.17,4,3
+60+,Callao,alto,3.4,4,1
+36-45,Ucayali,bajo,2.44,4,4
+46-60,Lima,bajo,2.07,6,0
+36-45,Cajamarca,bajo,4.03,3,1
+46-60,Tumbes,medio,3.55,5,0
+18-25,Cajamarca,medio,1.59,4,2
+26-35,Piura,alto,1.47,6,3
+26-35,Lima,alto,3.58,4,1
+18-25,Piura,medio,2.43,4,3
+26-35,Lima,alto,1.61,3,2
+18-25,Lima,alto,2.8,3,0
+36-45,Moquegua,medio,1.81,3,2
+46-60,Callao,medio,2.22,2,1
+60+,Huánuco,alto,4.41,3,1
+26-35,Tacna,medio,1.94,5,2
+26-35,Lambayeque,medio,2.07,3,4
+46-60,Pasco,alto,2.16,3,3
+60+,Lima,bajo,3.58,2,1
+26-35,Lima,medio,2.88,5,0
+18-25,Madre de Dios,bajo,2.98,6,2
+36-45,Lima,medio,3.87,7,2
+60+,Callao,medio,1.84,6,3
+46-60,Lambayeque,medio,4.0,9,1
+46-60,Huánuco,medio,2.71,4,0
+26-35,Puno,medio,2.66,2,1
+18-25,Tumbes,medio,4.5,4,1
+18-25,Lima,bajo,2.09,6,2
+18-25,Huancavelica,bajo,1.89,4,1
+18-25,Piura,medio,3.65,4,4
+46-60,Lima,bajo,2.95,7,3
+26-35,Arequipa,bajo,3.28,4,1
+26-35,Ica,alto,3.05,4,2
+46-60,Puno,bajo,3.4,6,3
+36-45,Puno,medio,3.01,7,2
+60+,Amazonas,medio,2.56,7,3
+26-35,Lima,medio,2.81,5,4
+46-60,Junín,bajo,2.2,6,1
+36-45,Áncash,bajo,0.67,2,4
+60+,Moquegua,medio,3.74,4,2
+60+,San Martín,alto,0.57,2,3
+18-25,Lima,alto,3.77,3,0
+26-35,Loreto,bajo,1.61,8,0
+18-25,Lima,alto,3.85,6,0
+26-35,Lima,bajo,3.06,3,3
+18-25,Cajamarca,medio,3.55,2,4
+36-45,Ucayali,medio,1.62,6,3
+26-35,Callao,alto,2.5,5,2
+26-35,Amazonas,bajo,3.45,3,3
+26-35,Lima,medio,4.06,3,0
+60+,Lima,alto,2.69,6,1
+36-45,Lima,bajo,2.45,7,1
+36-45,Huánuco,medio,1.82,3,3
+60+,Pasco,medio,1.52,3,3
+60+,Amazonas,bajo,3.92,6,3
+36-45,Ucayali,medio,3.82,1,2
+26-35,Lima,bajo,2.3,5,3
+26-35,Arequipa,medio,3.37,7,1
+36-45,Cajamarca,medio,1.98,10,0
+18-25,Tacna,medio,3.07,3,0
+46-60,Puno,medio,3.71,2,3
+36-45,Apurímac,bajo,2.65,6,1
+36-45,Lima,bajo,3.71,2,3
+36-45,Madre de Dios,medio,2.6,3,2
+18-25,Cusco,medio,1.64,4,1
+36-45,Lima,bajo,1.95,6,3
+46-60,Ica,medio,1.16,3,1
+60+,Lima,medio,3.15,6,0
+60+,Ayacucho,alto,3.15,5,3
+18-25,Lima,medio,1.12,9,3
+60+,San Martín,medio,3.1,8,0
+26-35,Moquegua,alto,5.0,3,4
+18-25,Ucayali,medio,3.05,6,1
+46-60,Lambayeque,alto,1.11,5,2
+46-60,Junín,alto,3.07,7,4
+18-25,Huancavelica,bajo,4.17,6,2
+26-35,Lima,alto,1.89,3,0
+36-45,Lima,medio,3.22,2,1
+18-25,Tumbes,medio,2.45,6,3
+36-45,Lima,alto,2.18,3,2
+36-45,Junín,bajo,2.32,4,1
+18-25,Huánuco,medio,3.38,6,1
+60+,Lima,medio,1.44,6,2
+36-45,Lima,medio,2.72,9,0
+60+,La Libertad,medio,2.85,4,1
+26-35,Callao,alto,2.31,4,0
+36-45,Lima,medio,3.8,2,0
+18-25,Cusco,bajo,3.82,5,0
+36-45,Piura,bajo,2.89,2,3
+26-35,Lambayeque,alto,1.93,3,4
+46-60,Madre de Dios,alto,2.26,3,3
+18-25,Lima,bajo,1.37,2,3
+36-45,Tumbes,bajo,3.47,9,3
+26-35,La Libertad,medio,3.55,2,2
+60+,Callao,bajo,2.56,7,0
+18-25,Áncash,bajo,2.68,5,4
+18-25,Moquegua,medio,2.3,8,0
+18-25,Tumbes,medio,3.26,7,4
+26-35,Huancavelica,alto,1.32,5,0
+18-25,Arequipa,medio,2.68,2,2
+36-45,Puno,bajo,2.92,4,0
+18-25,Lima,medio,2.47,2,3
+46-60,Cajamarca,alto,3.4,3,3
+18-25,San Martín,alto,3.04,7,2
+36-45,Junín,medio,2.04,6,3
+60+,Junín,medio,2.44,3,0
+60+,Tacna,medio,2.2,4,4
+60+,Madre de Dios,medio,2.83,4,2
+26-35,Lambayeque,bajo,2.39,4,1
+46-60,San Martín,bajo,4.98,4,4
+36-45,Lima,medio,2.72,5,3
+46-60,San Martín,alto,2.38,7,1
+60+,Cusco,alto,2.88,10,4
+26-35,Madre de Dios,medio,4.07,4,1
+60+,Lima,bajo,2.73,4,0
+18-25,Lima,medio,1.94,3,2
+46-60,Cajamarca,alto,1.87,9,4
+36-45,Apurímac,medio,2.14,7,0
+18-25,Áncash,medio,2.82,6,2
+26-35,Huánuco,medio,1.82,7,0
+46-60,Huancavelica,bajo,2.89,4,0
+46-60,Callao,bajo,1.75,4,0
+60+,Lima,medio,2.55,11,1
+60+,Ayacucho,bajo,0.49,6,1
+46-60,Huánuco,medio,2.63,4,0
+18-25,Ayacucho,medio,2.99,6,0
+18-25,Huancavelica,bajo,1.98,8,0
+46-60,Huancavelica,medio,3.03,6,4
+36-45,Arequipa,alto,1.15,7,1
+60+,Lima,bajo,1.04,6,0
+26-35,San Martín,medio,2.33,9,0
+46-60,Lima,medio,3.81,2,3
+26-35,Cusco,alto,2.78,4,1
+60+,Ucayali,bajo,3.48,1,4
+60+,Lambayeque,alto,1.06,6,0
+36-45,Huancavelica,alto,2.89,5,4
+60+,Callao,alto,3.8,5,3
+46-60,Tacna,medio,1.9,3,2
+36-45,Amazonas,medio,2.19,5,4
+60+,Lambayeque,medio,2.65,3,3
+26-35,Apurímac,medio,4.29,3,0
+60+,Junín,medio,1.64,4,2
+60+,Cusco,medio,3.21,6,2
+36-45,Huancavelica,alto,1.5,8,3
+18-25,Madre de Dios,medio,1.29,3,0
+18-25,Apurímac,bajo,1.96,4,2
+60+,Junín,medio,4.35,3,0
+18-25,Huánuco,alto,0.81,7,4
+36-45,Cusco,medio,2.6,9,3
+36-45,Pasco,medio,3.45,6,0
+18-25,Lima,medio,2.91,3,2
+46-60,Ayacucho,medio,2.46,7,2
+26-35,Lima,alto,1.65,6,3
+36-45,La Libertad,medio,1.41,8,4
+36-45,Callao,alto,2.22,3,0
+46-60,Áncash,medio,2.5,4,3
+36-45,Moquegua,medio,1.85,1,4
+46-60,Tacna,medio,2.43,3,2
+46-60,Madre de Dios,medio,2.52,2,0
+36-45,Amazonas,bajo,0.96,7,2
+26-35,Lima,medio,2.59,3,1
+26-35,Lima,alto,2.59,8,3
+18-25,Huánuco,medio,3.27,4,0
+46-60,Lambayeque,bajo,3.5,10,2
+60+,Lima,medio,2.4,8,3
+36-45,Amazonas,medio,3.14,10,2
+26-35,Tacna,alto,1.57,5,4
+36-45,Ica,bajo,1.01,13,1
+18-25,Ucayali,medio,2.68,4,4
+36-45,Cusco,alto,2.53,3,4
+46-60,Ica,bajo,1.77,4,4
+18-25,Callao,medio,3.27,5,4
+36-45,Lima,medio,3.42,1,4
+26-35,Huánuco,medio,1.12,8,2
+26-35,Lima,medio,2.07,10,2
+26-35,Huancavelica,medio,0.55,6,0
+46-60,Pasco,alto,4.19,3,3
+18-25,Arequipa,medio,2.76,6,4
+36-45,Puno,medio,2.14,3,4
+60+,Puno,alto,1.54,3,0
+60+,Ica,bajo,0.52,5,0
+18-25,Lima,bajo,3.83,2,4
+26-35,Ucayali,alto,2.1,7,4
+36-45,Puno,medio,0.77,6,2
+26-35,Moquegua,bajo,2.39,7,0
+26-35,Ucayali,bajo,2.37,6,4
+18-25,Moquegua,medio,3.43,8,4
+36-45,Piura,medio,3.83,3,2
+60+,Junín,bajo,2.55,3,1
+60+,Lima,alto,3.73,6,3
+60+,Lambayeque,bajo,2.87,7,2
+26-35,Huancavelica,medio,2.23,1,4
+26-35,Puno,medio,3.88,9,2
+36-45,Lambayeque,medio,2.58,6,1
+18-25,Apurímac,bajo,1.98,5,4
+46-60,Junín,medio,2.61,5,0
+46-60,Lambayeque,bajo,3.59,2,4
+60+,Lima,bajo,2.91,4,2
+60+,Ica,medio,2.1,3,3
+46-60,Cajamarca,medio,1.73,2,2
+36-45,Lima,bajo,3.93,4,0
+60+,Cajamarca,medio,3.58,4,4
+18-25,Pasco,medio,2.37,3,1
+60+,Amazonas,bajo,4.14,6,3
+60+,Loreto,medio,3.46,4,2
+46-60,Cusco,medio,2.49,4,4
+36-45,Junín,alto,2.74,4,2
+60+,Lima,medio,4.02,3,4
+26-35,Loreto,medio,2.3,4,1
+26-35,Pasco,alto,3.55,5,4
+26-35,San Martín,bajo,3.93,7,2
+60+,Pasco,alto,1.07,3,3
+46-60,Piura,medio,2.57,6,4
+26-35,San Martín,bajo,1.17,4,2
+26-35,Lima,medio,2.93,2,3
+26-35,Lima,alto,3.47,1,2
+26-35,Cusco,medio,3.15,3,2
+60+,Ucayali,medio,1.76,3,3
+36-45,Lambayeque,medio,3.35,2,0
+46-60,Huancavelica,alto,2.26,7,0
+26-35,Apurímac,medio,4.89,8,0
+60+,Puno,alto,0.98,8,1
+46-60,Loreto,medio,3.01,8,2
+60+,Lima,medio,3.64,9,4
+60+,Puno,medio,1.7,3,1
+46-60,Lambayeque,bajo,2.01,5,2
+26-35,Áncash,medio,3.4,6,1
+60+,Tacna,bajo,3.58,3,0
+36-45,Puno,bajo,0.51,7,0
+26-35,Puno,bajo,1.82,4,4
+18-25,Tumbes,medio,2.67,2,0
+26-35,Lima,medio,2.21,5,2
+46-60,Junín,bajo,4.06,4,0
+60+,Piura,medio,2.31,6,3
+18-25,Loreto,medio,1.37,4,3
+46-60,San Martín,alto,2.79,7,0
+26-35,Ucayali,medio,3.68,4,3
+26-35,Ica,medio,2.45,7,2
+46-60,Apurímac,medio,2.08,2,0
+46-60,Arequipa,alto,0.0,5,2
+36-45,Lima,bajo,2.56,4,3
+46-60,Ica,bajo,3.34,4,1
+46-60,Tacna,alto,3.48,5,4
+46-60,Ucayali,medio,3.11,7,4
+26-35,Puno,bajo,4.89,6,0
+18-25,Ica,medio,1.75,5,3
+46-60,Áncash,bajo,1.78,2,3
+18-25,Ucayali,medio,2.9,8,1
+18-25,Huánuco,medio,1.52,2,1
+60+,Lima,bajo,1.69,8,4
+36-45,Amazonas,alto,1.42,9,1
+60+,Ucayali,bajo,1.78,4,1
+60+,Lima,bajo,3.33,6,3
+60+,Pasco,bajo,3.13,5,2
+60+,Huancavelica,bajo,2.79,6,2
+60+,Loreto,bajo,3.48,3,4
+36-45,Piura,medio,0.51,2,2
+36-45,Arequipa,medio,0.25,6,0
+60+,Lima,medio,2.3,7,1
+18-25,Lima,bajo,2.44,4,1
+46-60,Lima,medio,0.51,5,4
+60+,Lima,medio,0.0,3,3
+46-60,Cajamarca,medio,1.44,7,0
+36-45,San Martín,medio,3.79,7,3
+36-45,Lambayeque,bajo,1.0,4,3
+18-25,Lima,alto,2.7,4,2
+60+,Huancavelica,medio,1.29,2,1
+26-35,Lima,bajo,2.17,7,4
+26-35,San Martín,medio,1.57,9,1
+60+,Lima,bajo,1.01,2,2
+60+,Huánuco,medio,3.28,4,4
+46-60,Lima,medio,3.27,2,0
+18-25,Áncash,bajo,2.39,2,2
+60+,Pasco,medio,2.95,6,0
+18-25,San Martín,bajo,1.24,5,1
+60+,Loreto,bajo,1.98,2,2
+46-60,Tacna,medio,2.37,5,4
+26-35,Ayacucho,medio,2.43,7,1
+26-35,Ica,bajo,3.95,5,1
+18-25,Junín,medio,2.95,2,3
+18-25,Arequipa,medio,3.47,11,2
+46-60,Lima,alto,4.06,3,2
+46-60,Lima,medio,2.13,4,1
+36-45,Arequipa,medio,1.79,7,2
+36-45,San Martín,alto,3.17,7,2
+18-25,Lambayeque,alto,2.21,5,0
+36-45,Lima,medio,3.82,4,4
+60+,Lima,bajo,2.27,3,3
+36-45,Ucayali,bajo,2.78,4,2
+46-60,Tacna,bajo,3.78,6,1
+26-35,Ayacucho,bajo,2.91,5,4
+36-45,San Martín,bajo,2.75,3,2
+36-45,Huancavelica,medio,4.26,3,0
+36-45,Lima,bajo,3.31,8,1
+26-35,Apurímac,medio,2.64,4,0
+26-35,Moquegua,bajo,2.48,4,1
+36-45,Piura,medio,3.05,5,4
+26-35,La Libertad,medio,2.26,8,1
+18-25,Áncash,medio,1.7,4,0
+60+,Lima,alto,3.02,3,1
+46-60,Cusco,alto,1.17,4,3
+60+,Amazonas,medio,2.82,4,1
+26-35,Lima,medio,2.47,8,3
+46-60,Lima,alto,2.41,5,4
+36-45,Lima,bajo,2.13,4,4
+18-25,Cusco,bajo,2.13,11,1
+18-25,Cajamarca,medio,3.59,5,0
+18-25,Ica,medio,4.48,5,0
+18-25,Cajamarca,bajo,3.98,5,0
+36-45,Lima,medio,4.44,8,3
+18-25,Tumbes,bajo,0.67,6,3
+60+,Callao,medio,2.48,1,0
+26-35,Amazonas,alto,1.75,5,0
+36-45,Lima,medio,0.2,4,0
+18-25,Huancavelica,bajo,2.15,4,0
+60+,Pasco,alto,2.02,5,1
+60+,Ucayali,medio,1.96,1,3
+26-35,Lambayeque,medio,2.0,7,1
+36-45,Piura,medio,3.04,5,3
+18-25,Amazonas,medio,3.01,5,2
+36-45,Piura,bajo,2.68,6,3
+36-45,Piura,medio,3.8,6,3
+60+,Lima,bajo,2.43,9,1
+26-35,Ayacucho,medio,2.42,6,0
+46-60,Lima,alto,3.05,11,1
+46-60,Lima,alto,2.38,3,3
+26-35,Piura,medio,2.75,3,3
+60+,Ica,alto,3.13,9,1
+36-45,Lima,bajo,3.58,1,1
+26-35,Huancavelica,bajo,3.54,4,4
+26-35,Lima,medio,2.29,8,2
+36-45,Pasco,medio,1.01,8,3
+46-60,Lima,bajo,1.1,4,3
+26-35,Lima,medio,1.05,5,0
+46-60,Lima,bajo,1.78,4,2
+26-35,La Libertad,bajo,2.3,5,3
+46-60,Arequipa,medio,1.12,5,4
+36-45,Lima,medio,2.43,1,4
+36-45,Lima,alto,2.1,6,3
+18-25,Lima,medio,2.72,6,4
+26-35,Madre de Dios,medio,1.91,5,0
+36-45,Ucayali,medio,4.34,6,0
+60+,Piura,medio,2.64,3,3
+26-35,Loreto,bajo,3.45,10,1
+18-25,Apurímac,medio,2.44,4,1
+18-25,Lima,alto,2.23,6,4
+60+,Lambayeque,alto,0.53,5,4
+36-45,Arequipa,medio,2.33,8,1
+60+,Ayacucho,alto,1.61,7,1
+46-60,Lima,bajo,0.36,5,0
+36-45,Lambayeque,bajo,1.63,2,2
+18-25,Lima,bajo,2.14,3,4
+26-35,Tacna,medio,0.66,2,3
+18-25,Junín,bajo,2.6,5,4
+36-45,Lima,alto,2.13,3,3
+26-35,Piura,medio,3.85,5,3
+26-35,Amazonas,medio,1.77,1,1
+18-25,La Libertad,bajo,1.11,6,0
+36-45,Áncash,bajo,2.52,5,4
+60+,Huancavelica,medio,0.14,9,0
+46-60,Huánuco,medio,2.16,3,4
+36-45,Lambayeque,medio,2.7,6,3
+26-35,Tacna,medio,3.3,7,0
+18-25,Cusco,bajo,2.19,3,2
+26-35,Huánuco,alto,3.71,7,3
+26-35,Loreto,medio,4.41,7,4
+46-60,Junín,medio,2.36,3,0
+18-25,La Libertad,alto,2.08,3,3
+36-45,Moquegua,bajo,2.63,5,2
+36-45,Lima,alto,2.69,1,0
+26-35,La Libertad,bajo,0.0,1,3
+18-25,Huánuco,medio,2.72,6,1
+46-60,Moquegua,medio,1.19,7,4
+46-60,Loreto,bajo,2.22,8,0
+46-60,Lima,medio,3.11,7,3
+26-35,Lima,bajo,1.25,6,0
+18-25,Loreto,medio,2.04,3,2
+60+,Tacna,medio,2.84,6,0
+36-45,Cusco,bajo,3.99,4,0
+46-60,Apurímac,bajo,1.19,8,4
+18-25,Madre de Dios,medio,3.66,5,1
+46-60,Piura,bajo,2.66,3,1
+46-60,Cusco,medio,2.33,11,2
+18-25,La Libertad,medio,4.88,1,2
+18-25,Lambayeque,alto,2.73,3,1
+26-35,Lima,bajo,3.15,5,4
+36-45,Cajamarca,medio,1.99,4,2
+46-60,Callao,bajo,1.05,4,0
+26-35,Callao,alto,1.44,7,1
+36-45,Pasco,bajo,1.97,1,2
+26-35,Cusco,medio,1.78,5,3
+26-35,Cajamarca,alto,1.97,6,4
+36-45,Huánuco,medio,0.27,4,2
+46-60,Ucayali,alto,2.8,0,4
+46-60,Lima,medio,4.07,5,0
+36-45,Junín,medio,0.16,6,0
+46-60,Moquegua,bajo,3.36,8,2
+36-45,Tacna,alto,3.57,5,0
+36-45,Lambayeque,medio,2.36,7,2
+18-25,Lima,alto,2.81,2,2
+46-60,Tacna,alto,2.75,5,0
+26-35,Puno,medio,2.94,4,3
+26-35,Madre de Dios,medio,4.6,8,1
+60+,Huánuco,medio,0.64,3,2
+18-25,Lima,bajo,2.87,6,2
+60+,La Libertad,medio,4.42,6,1
+46-60,Amazonas,bajo,3.71,8,4
+26-35,La Libertad,bajo,2.27,9,3
+26-35,Callao,alto,0.92,5,1
+36-45,Puno,alto,1.38,4,1
+18-25,Apurímac,medio,1.04,8,3
+18-25,Lima,alto,2.93,3,1
+60+,Lima,bajo,0.71,5,1
+26-35,Lima,medio,1.97,4,2
+60+,Huancavelica,bajo,1.98,1,2
+36-45,Lima,bajo,2.04,5,1
+60+,Pasco,alto,4.34,5,3
+26-35,Ayacucho,bajo,3.17,4,1
+18-25,Madre de Dios,medio,1.0,8,2
+60+,Huánuco,alto,1.87,5,3
+36-45,Ica,medio,2.79,5,4
+46-60,Ucayali,medio,1.14,2,2
+26-35,San Martín,bajo,1.54,2,2
+26-35,Ica,medio,5.37,1,3
+60+,Lambayeque,alto,2.26,2,1
+60+,Lambayeque,bajo,3.7,1,1
+18-25,Lima,bajo,4.05,2,4
+18-25,Lima,medio,2.9,3,2
+26-35,Moquegua,medio,2.2,6,3
+26-35,Madre de Dios,medio,2.89,2,0
+26-35,Amazonas,bajo,2.63,2,2
+60+,Huánuco,medio,3.05,5,3
+46-60,Tacna,medio,1.49,3,4
+46-60,San Martín,bajo,2.45,8,2
+60+,Huánuco,bajo,2.78,8,2
+60+,Lima,bajo,1.39,1,0
+60+,Lima,bajo,0.0,4,4
+46-60,Cusco,bajo,1.92,5,3
+46-60,Loreto,medio,2.58,3,2
+26-35,Huancavelica,medio,4.48,4,0
+60+,Lima,medio,4.17,8,3
+18-25,Puno,medio,3.49,9,1
+26-35,Apurímac,bajo,2.24,7,1
+60+,San Martín,bajo,1.23,5,3
+46-60,Lima,medio,3.04,5,2
+46-60,Lima,medio,1.45,3,4
+60+,Pasco,medio,3.11,4,1
+26-35,Junín,bajo,3.83,2,4
+60+,Lima,bajo,2.85,2,2
+60+,Lima,medio,2.9,4,4
+60+,Apurímac,alto,1.08,5,3
+26-35,Ucayali,medio,2.21,6,3
+46-60,Lima,alto,1.64,5,0
+26-35,Madre de Dios,alto,1.16,6,2
+60+,Lambayeque,medio,4.01,7,0
+26-35,Ica,medio,0.64,3,2
+18-25,Apurímac,medio,3.55,7,0
+60+,Puno,alto,1.48,3,3
+60+,San Martín,medio,2.15,4,3
+36-45,Áncash,bajo,1.54,6,3
+36-45,Lambayeque,medio,3.46,2,2
+18-25,Loreto,bajo,5.02,7,0
+46-60,La Libertad,medio,2.24,4,3
+26-35,Puno,medio,2.65,1,4
+46-60,Ica,medio,1.98,8,1
+18-25,San Martín,alto,3.18,9,4
+46-60,Áncash,medio,1.51,3,3
+26-35,La Libertad,bajo,4.05,4,3
+46-60,Cajamarca,bajo,4.42,8,0
+26-35,Ayacucho,medio,2.94,7,3
+26-35,Arequipa,bajo,2.41,3,4
+60+,Lima,medio,2.54,6,1
+36-45,Madre de Dios,bajo,3.66,7,2
+46-60,Junín,medio,3.74,2,2
+18-25,Arequipa,medio,4.5,7,3
+26-35,Lima,medio,3.34,5,1
+26-35,Loreto,bajo,3.04,4,2
+26-35,Lima,medio,0.85,4,1
+18-25,Piura,medio,3.85,4,4
+46-60,Apurímac,alto,3.06,4,1
+36-45,Cajamarca,alto,2.17,7,2
+60+,Lima,alto,2.59,5,2
+60+,Callao,medio,3.58,5,1
+60+,Lima,medio,1.62,4,4
+60+,Lima,medio,3.34,10,2
+36-45,Lima,bajo,2.94,7,4
+46-60,Callao,bajo,3.85,5,0
+18-25,Callao,medio,1.54,4,3
+46-60,Lima,bajo,3.22,3,2
+18-25,Lima,medio,3.5,3,4
+60+,Lima,bajo,1.97,6,4
+60+,Ayacucho,medio,1.97,5,0
+60+,Apurímac,medio,0.78,9,1
+18-25,Lima,alto,2.2,0,2
+36-45,Lambayeque,medio,0.58,5,4
+26-35,Lima,bajo,1.86,5,1
+60+,Tumbes,medio,2.96,3,1
+36-45,Lima,alto,3.25,14,4
+46-60,Amazonas,medio,2.16,3,3
+18-25,La Libertad,medio,1.5,1,0
+36-45,Callao,medio,2.32,4,0
+26-35,Pasco,bajo,2.91,6,4
+18-25,Lambayeque,medio,3.4,4,4
+26-35,Madre de Dios,medio,2.62,6,4
+26-35,Áncash,bajo,1.97,6,4
+36-45,Huancavelica,bajo,4.28,2,4
+60+,Puno,alto,2.98,9,0
+36-45,San Martín,medio,1.44,3,4
+46-60,Ica,bajo,1.16,5,0
+26-35,Lima,medio,0.87,5,3
+18-25,Huánuco,medio,2.14,7,4
+36-45,San Martín,alto,2.86,6,4
+60+,Amazonas,medio,3.7,3,3
+46-60,La Libertad,alto,3.87,1,0
+26-35,Loreto,bajo,2.52,7,4
+60+,Ica,medio,2.2,3,3
+60+,Puno,medio,1.13,4,0
+46-60,Lima,medio,1.37,10,4
+36-45,Puno,bajo,0.81,8,1
+46-60,Tumbes,medio,2.37,5,3
+60+,Lambayeque,medio,2.3,7,0
+18-25,Apurímac,medio,3.25,6,2
+46-60,Tacna,bajo,2.81,6,1
+18-25,Lambayeque,alto,2.19,4,1
+60+,Piura,bajo,3.52,6,1
+60+,Lambayeque,medio,2.97,5,1
+46-60,Callao,alto,3.14,5,0
+26-35,Lima,medio,2.72,6,0
+18-25,Tumbes,medio,2.11,9,2
+60+,Amazonas,medio,2.13,6,4
+60+,Piura,bajo,1.96,4,1
+36-45,Cusco,bajo,2.88,3,1
+46-60,Moquegua,medio,1.48,4,4
+60+,Lima,bajo,2.27,1,1
+26-35,Ayacucho,alto,3.36,5,1
+18-25,Moquegua,medio,0.53,6,1
+46-60,Lima,medio,2.61,5,2
+46-60,Puno,medio,2.38,6,3
+46-60,Lima,bajo,1.75,3,4
+46-60,Ucayali,medio,2.42,4,1
+46-60,Ucayali,medio,1.66,6,1
+18-25,Ayacucho,bajo,2.48,6,4
+18-25,Moquegua,bajo,4.22,1,0
+46-60,Ucayali,alto,2.69,12,0
+26-35,Amazonas,medio,3.83,6,0
+26-35,Apurímac,medio,1.43,4,1
+36-45,Ucayali,bajo,4.03,8,3
+18-25,Ica,medio,3.62,8,4
+46-60,Lima,medio,2.16,6,1
+46-60,Lambayeque,medio,2.54,8,3
+60+,Ica,medio,1.75,3,0
+18-25,Ica,medio,1.61,5,1
+26-35,Ica,bajo,1.72,14,1
+46-60,Loreto,medio,1.0,4,2
+60+,Puno,medio,3.19,8,2
+26-35,San Martín,medio,3.38,5,3
+60+,Ica,alto,2.23,3,0
+36-45,Moquegua,medio,1.82,5,1
+26-35,Cusco,alto,2.45,1,1
+18-25,Lima,alto,3.25,6,0
+60+,Junín,medio,3.03,5,3
+18-25,Puno,medio,1.53,6,3
+36-45,Madre de Dios,medio,4.12,5,3
+36-45,Lima,medio,1.52,7,1
+18-25,Lima,alto,2.48,4,2
+18-25,Cusco,medio,3.19,2,1
+60+,Lima,bajo,1.9,7,0
+36-45,Piura,alto,4.07,1,3
+46-60,Lima,medio,1.48,6,2
+46-60,Junín,bajo,2.81,3,3
+36-45,Cusco,alto,3.56,4,2
+26-35,San Martín,medio,4.44,6,2
+18-25,Apurímac,bajo,1.01,7,4
+26-35,Lima,medio,3.27,6,2
+60+,Lambayeque,bajo,2.44,1,3
+36-45,Moquegua,bajo,1.33,2,3
+36-45,Lima,medio,4.3,3,0
+26-35,Ayacucho,medio,3.35,5,1
+26-35,Ucayali,alto,2.43,5,2
+18-25,Lima,medio,1.21,5,0
+26-35,Puno,bajo,2.18,4,4
+26-35,Tumbes,alto,2.82,3,1
+36-45,San Martín,bajo,2.39,9,4
+60+,Lambayeque,medio,2.5,2,2
+46-60,Huancavelica,bajo,1.22,6,2
+46-60,Cusco,medio,1.26,5,1
+46-60,Lima,medio,4.27,5,3
+26-35,Junín,bajo,1.62,4,3
+60+,San Martín,medio,2.03,9,3
+18-25,Puno,medio,3.12,2,3
+26-35,San Martín,bajo,1.97,2,4
+36-45,Cusco,alto,3.52,7,4
+18-25,Ayacucho,medio,2.37,2,2
+46-60,Lima,medio,2.5,4,3
+60+,Tumbes,medio,1.51,3,3
+60+,Loreto,medio,2.51,6,4
+46-60,Junín,alto,3.21,3,4
+26-35,Tacna,medio,2.17,2,3
+26-35,Tumbes,medio,2.5,4,2
+26-35,Lambayeque,bajo,4.09,7,4
+60+,Lima,alto,2.58,4,1
+36-45,Moquegua,bajo,2.39,3,2
+46-60,Arequipa,medio,2.33,4,2
+26-35,Lambayeque,bajo,1.52,5,0
+46-60,Callao,medio,1.32,5,0
+36-45,Cajamarca,alto,2.99,4,4
+60+,Huánuco,medio,2.96,4,4
+26-35,Ica,medio,2.23,6,4
+60+,Lima,medio,2.61,4,3
+26-35,Huancavelica,alto,3.25,5,3
+46-60,Arequipa,bajo,1.43,5,2
+26-35,Ayacucho,medio,0.67,3,2
+46-60,Lima,bajo,3.8,7,2
+26-35,Tacna,medio,1.63,5,4
+46-60,Pasco,medio,1.46,4,3
+36-45,Huancavelica,medio,1.55,6,4
+26-35,Pasco,medio,2.74,6,2
+26-35,Ica,medio,2.18,0,1
+60+,Ayacucho,medio,0.72,4,4
+60+,Callao,alto,2.92,7,3
+46-60,Lima,medio,3.0,4,4
+18-25,Lima,medio,0.99,3,0
+26-35,Ica,bajo,3.95,6,4
+18-25,Áncash,alto,1.51,5,4
+26-35,Puno,medio,1.81,4,0
+26-35,Ucayali,medio,2.93,4,4
+36-45,Arequipa,bajo,2.06,2,1
+18-25,San Martín,medio,1.08,4,0
+26-35,Ucayali,medio,1.54,8,4
+18-25,Huancavelica,bajo,3.62,4,3
+18-25,San Martín,medio,2.96,3,3
+18-25,Tumbes,bajo,2.37,4,3
+46-60,Lima,medio,0.0,5,0
+18-25,Ucayali,medio,2.01,7,0
+18-25,Junín,medio,2.41,6,1
+46-60,Huancavelica,bajo,2.52,4,4
+26-35,Pasco,medio,2.09,7,2
+60+,San Martín,medio,4.03,5,3
+18-25,Huánuco,medio,3.86,4,3
+18-25,San Martín,medio,2.01,7,0
+26-35,Lima,alto,2.46,5,4
+60+,Lima,medio,2.57,3,3
+18-25,Lima,medio,4.22,1,0
+60+,Lima,bajo,2.5,0,1
+60+,Tacna,medio,1.67,2,2
+18-25,Huancavelica,medio,2.34,5,3
+60+,Piura,medio,2.1,8,4
+46-60,Huánuco,medio,3.39,2,3
+26-35,Lima,medio,2.45,8,4
+26-35,Ucayali,alto,0.5,6,3
+26-35,Ucayali,medio,2.04,4,0
+18-25,Lima,bajo,2.66,10,4
+18-25,Áncash,bajo,3.0,6,3
+18-25,Cajamarca,bajo,1.32,9,3
+60+,Moquegua,medio,2.49,4,2
+46-60,Tumbes,alto,2.17,3,4
+46-60,Lima,medio,2.81,4,1
+18-25,Lambayeque,bajo,3.03,4,1
+46-60,Callao,medio,1.77,7,4
+46-60,Huánuco,alto,4.91,8,1
+60+,Lambayeque,bajo,0.68,6,2
+36-45,Lima,alto,2.26,9,3
+36-45,Lima,alto,2.0,7,2
+60+,Loreto,alto,2.42,5,2
+36-45,Tacna,bajo,2.26,3,1
+18-25,Lima,bajo,2.03,5,0
+60+,Lambayeque,medio,2.97,2,3
+26-35,Pasco,medio,1.71,5,3
+26-35,Arequipa,bajo,3.55,4,4
+26-35,Lima,medio,2.62,2,4
+60+,Ucayali,medio,4.25,7,0
+18-25,Huancavelica,bajo,2.25,6,1
+26-35,Apurímac,medio,3.87,8,3
+26-35,Piura,alto,2.26,7,0
+26-35,Lima,medio,3.28,5,1
+46-60,La Libertad,medio,2.49,2,2
+60+,La Libertad,medio,2.15,6,4
+18-25,Lima,medio,3.37,10,3
+46-60,Lima,bajo,2.41,4,4
+18-25,Ayacucho,bajo,1.98,7,2
+46-60,Puno,medio,1.8,9,2
+46-60,Pasco,bajo,0.8,7,3
+26-35,Ayacucho,bajo,3.93,6,3
+18-25,Áncash,alto,3.14,8,0
+36-45,Pasco,bajo,2.97,3,0
+36-45,Lima,alto,2.96,5,1
+46-60,Lima,medio,1.59,6,4
+26-35,Lima,medio,3.58,5,1
+46-60,Cajamarca,medio,2.85,6,1
+36-45,Ucayali,alto,1.27,3,3
+18-25,La Libertad,medio,1.9,9,3
+26-35,Lima,medio,2.54,8,2
+46-60,Lima,medio,4.58,5,0
+46-60,Junín,medio,2.73,9,3
+18-25,Cajamarca,medio,1.68,8,0
+60+,Arequipa,alto,4.07,6,1
+60+,Loreto,medio,1.41,2,1
+46-60,Huánuco,alto,3.16,5,3
+36-45,Loreto,medio,3.27,10,4
+36-45,Amazonas,medio,2.8,5,1
+60+,Cusco,medio,3.26,5,3
+60+,Apurímac,medio,4.52,5,2
+46-60,Ucayali,medio,3.45,3,0
+36-45,Lima,alto,4.22,2,4
+60+,Madre de Dios,medio,1.57,7,2
+36-45,Lima,medio,3.11,6,2
+46-60,Piura,alto,1.79,6,1
+60+,Cusco,bajo,3.95,9,4
+26-35,Lima,medio,3.54,4,3
+60+,Amazonas,medio,2.56,8,2
+18-25,Piura,medio,2.86,2,3
+46-60,Ucayali,medio,4.07,6,2
+18-25,Tumbes,bajo,0.0,9,4
+26-35,Apurímac,bajo,2.58,5,2
+26-35,Loreto,medio,4.1,5,4
+18-25,San Martín,bajo,2.28,5,1
+36-45,Lima,bajo,3.15,5,3
+36-45,Tacna,bajo,0.74,5,4
+26-35,Junín,medio,3.74,2,4
+26-35,Cusco,medio,0.17,5,0
+46-60,Lima,medio,2.45,2,2
+60+,Tacna,medio,2.38,3,1
+46-60,Ica,bajo,1.5,8,4
+60+,Áncash,medio,1.52,8,3
+60+,Arequipa,medio,3.74,3,4
+18-25,Tumbes,medio,2.76,5,3
+26-35,Lima,alto,3.94,5,4
+26-35,Cajamarca,medio,2.3,5,0
+18-25,Apurímac,medio,1.53,8,3
+46-60,Ucayali,medio,3.19,10,4
+26-35,Apurímac,bajo,4.21,11,2
+18-25,Ucayali,bajo,3.49,1,0
+60+,Loreto,alto,1.19,6,0
+26-35,Callao,alto,3.27,3,3
+26-35,Lambayeque,bajo,4.39,5,4
+18-25,Huancavelica,bajo,3.81,0,1
+36-45,Ayacucho,alto,2.15,6,2
+36-45,Tacna,bajo,1.33,2,2
+26-35,Lima,bajo,2.11,4,0
+60+,Apurímac,bajo,2.65,14,3
+18-25,Cusco,medio,3.93,5,2
+46-60,Amazonas,medio,4.3,3,3
+46-60,Arequipa,bajo,3.26,6,3
+60+,Cusco,medio,3.45,8,3
+26-35,Ayacucho,bajo,2.43,8,4
+26-35,Moquegua,medio,3.42,5,1
+36-45,Lima,bajo,2.1,5,0
+18-25,Madre de Dios,medio,2.81,6,2
+18-25,Áncash,bajo,3.33,5,4
+46-60,Junín,medio,2.63,3,0
+18-25,Huánuco,medio,1.67,2,0
+18-25,Huánuco,medio,2.92,2,3
+60+,Lambayeque,medio,4.28,3,3
+36-45,Lima,medio,2.55,5,1
+18-25,Lima,medio,2.74,3,2
+18-25,Moquegua,alto,1.43,8,1
+46-60,Lima,alto,0.86,1,2
+60+,Piura,bajo,3.46,5,2
+46-60,Amazonas,medio,3.2,5,1
+18-25,Lima,medio,1.93,3,4
+18-25,La Libertad,medio,2.48,4,0
+26-35,Cusco,bajo,2.64,6,0
+36-45,Lima,bajo,4.06,2,0
+18-25,Cusco,medio,3.43,6,2
+46-60,Ucayali,medio,2.95,1,3
+18-25,Lambayeque,medio,1.5,1,4
+26-35,Cajamarca,alto,2.73,7,4
+60+,Apurímac,bajo,3.7,8,0
+26-35,Callao,alto,3.44,4,2
+18-25,Pasco,bajo,1.7,7,4
+60+,Lambayeque,medio,2.23,5,2
+46-60,Tumbes,medio,1.71,5,0
+26-35,Lima,medio,3.44,5,4
+18-25,Tacna,medio,1.59,10,3
+36-45,Lima,alto,1.41,7,0
+60+,La Libertad,alto,1.89,3,3
+26-35,Ucayali,medio,2.07,5,2
+18-25,Cajamarca,medio,2.9,0,1
+36-45,Huancavelica,alto,2.66,2,4
+18-25,Piura,bajo,3.05,7,3
+46-60,Lima,bajo,3.11,8,0
+18-25,Cajamarca,bajo,4.09,5,0
+46-60,Lima,medio,3.02,6,2
+36-45,Huancavelica,medio,3.25,9,4
+36-45,Lima,alto,2.74,3,2
+36-45,La Libertad,bajo,3.28,6,4
+18-25,Lambayeque,bajo,1.27,7,2
+46-60,Puno,bajo,2.85,8,0
+36-45,Lima,bajo,3.47,8,1
+46-60,Moquegua,bajo,2.15,7,0
+36-45,Ucayali,bajo,1.33,5,0
+26-35,Lima,medio,2.73,6,3
+46-60,Apurímac,bajo,4.54,3,2
+60+,Junín,medio,2.08,8,3
+60+,Lima,alto,1.9,8,1
+18-25,San Martín,medio,3.05,1,3
+36-45,Huánuco,medio,2.79,5,3
+18-25,Lima,medio,2.59,5,4
+18-25,Junín,medio,4.09,5,3
+60+,Lambayeque,medio,2.41,8,3
+18-25,Arequipa,alto,2.87,7,0
+18-25,Tacna,bajo,1.39,7,2
+46-60,Ucayali,medio,2.12,4,4
+60+,Apurímac,medio,1.98,5,4
+18-25,Ica,bajo,2.79,4,3
+36-45,Cajamarca,medio,1.15,5,2
+36-45,Arequipa,bajo,1.87,5,0
+26-35,Loreto,medio,2.75,7,0
+18-25,Ica,alto,1.9,6,0
+26-35,Lima,medio,3.17,4,3
+60+,Tumbes,bajo,1.3,6,2
+60+,Áncash,medio,5.2,2,0
+26-35,Moquegua,alto,2.1,4,4
+36-45,Junín,bajo,2.29,5,0
+60+,Madre de Dios,alto,2.97,6,1
+26-35,Lima,bajo,3.26,8,1
+36-45,Huancavelica,alto,3.56,5,2
+46-60,Moquegua,bajo,3.2,6,0
+36-45,Huancavelica,bajo,2.67,4,1
+18-25,Amazonas,bajo,1.69,4,3
+26-35,Lima,medio,0.42,8,4
+26-35,Cusco,medio,2.82,6,0
+36-45,Loreto,alto,3.48,4,2
+18-25,Ica,medio,1.92,8,3
+26-35,Callao,bajo,2.19,5,2
+26-35,Lima,bajo,3.03,4,2
+18-25,Arequipa,bajo,2.34,6,0
+26-35,Tacna,medio,3.49,4,4
+60+,Apurímac,bajo,1.41,7,2
+36-45,Áncash,medio,2.29,7,1
+60+,Lima,medio,3.15,7,1
+60+,Lima,bajo,2.53,5,1
+36-45,Ayacucho,medio,1.05,4,4
+18-25,San Martín,medio,4.53,6,3
+60+,Lima,medio,3.37,5,0
+26-35,Tacna,medio,1.39,10,4
+36-45,Piura,alto,1.99,7,2
+46-60,San Martín,medio,0.97,10,1
+18-25,Ucayali,medio,1.9,2,4
+18-25,San Martín,medio,2.39,6,3
+36-45,Callao,bajo,2.46,7,1
