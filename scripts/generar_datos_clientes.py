@@ -84,8 +84,8 @@ df['total_compra'] = df.apply(lambda row: generar_monto(row['compra_realizada'],
 df.drop(columns=['prob_compra'], inplace=True)
 
 # 6. Guardar como CSV
-output_dir = os.path.join(os.path.dirname(os.getcwd()), 'data_sintetica')
-os.makedirs(output_dir, exist_ok=True)
+base_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+output_dir = os.path.join(base_dir, 'data_sintetica')
 
 df.to_csv(os.path.join(output_dir, 'clientes_tienda_virtual.csv'), index=False, encoding='utf-8-sig')
 
